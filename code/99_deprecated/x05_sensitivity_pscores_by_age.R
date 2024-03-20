@@ -1,15 +1,15 @@
 rm (list = ls())
-source("code/00_functions.R")
+source("Code/00_functions.R")
 
 # loading excess estimates
 # ~~~~~~~~~~~~~~~~~~~~~~~~
 db_dts_fit <- 
-  read_rds("data_output/sens_analysis_p_scores_excess_deaths.rds") %>% 
-  select(Country, Code, Year, Sex, Age, Deaths, Exposure, psc, up, lp)
+  read_rds("Output/sens_analysis_p_scores_excess_deaths.rds") %>% 
+  select(Country, Code, Year, Sex, Age, Deaths, Population, psc, up, lp)
 
 db_rts_fit <- 
-  read_rds("data_output/sens_analysis_p_scores_excess_rates.rds") %>% 
-  select(Country, Code, Year, Sex, Age, Rate, Exposure, psc, up, lp)
+  read_rds("Output/sens_analysis_p_scores_excess_rates.rds") %>% 
+  select(Country, Code, Year, Sex, Age, Rate, Population, psc, up, lp)
 
 dts <- 
   bind_rows(db_dts_fit, db_rts_fit) %>% 
@@ -34,7 +34,7 @@ dts <-
 # loading country contextual variables from WPP documentation
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # https://population.un.org/wpp/Download/Metadata/Documentation/
-locs <- read_xlsx(here("data_input", "WPP2022_F01_LOCATIONS.xlsx"),
+locs <- read_xlsx(here("Data", "WPP2022_F01_LOCATIONS.xlsx"),
                   skip = 16) %>% 
   select(Country = 2, 
          Code_join = 5,
@@ -66,6 +66,21 @@ dts2 <-
 dts2 %>% 
   filter(is.na(Income)) %>% 
   pull(Country) %>% unique()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -142,9 +157,11 @@ dts_inf2 %>%
         axis.title.y = element_blank(),
         axis.text.y = element_text(size = tx - 5))
 
-ggsave(paste0("figures/sens_analysis/test_excess_infant.png"), dpi = 600,
+ggsave(paste0("Figures/last version/sens_analysis/test_excess_infant.png"), dpi = 600,
        width = 6, height = 6)
 
+ggsave(paste0("Figures/last version/sens_analysis/test_excess_infant.pdf"),
+       width = 6, height = 6)
 
 # summary of data in the plot
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,7 +1,7 @@
 rm (list = ls())
-source("code/00_functions.R")
+source("Code/00_functions.R")
 
-ccd_file_name <- "data_input/unicef/221109_Covid analysis data.xlsx"
+ccd_file_name <- "Data/unicef/221109_Covid analysis data.xlsx"
 
 # issues nov 9 2022
 # Qatar has 0_4 smaller than infant 
