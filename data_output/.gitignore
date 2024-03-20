@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# confidential data
+hmis_all_countries.rds
+preliminary_pscores_hmis_*
+preliminary_hmis_pscores_*
+
+
