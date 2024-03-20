@@ -1,0 +1,18 @@
+ Óbitos infantis - Brasil
+Óbitos p/Residênc por Faixa etária 1 e Unidade da Federação
+Período:2018
+"Faixa etária 1";"RO";"AC";"AM";"RR";"PA";"AP";"TO";"MA";"PI";"CE";"RN";"PB";"PE";"AL";"SE";"BA";"MG";"ES";"RJ";"SP";"PR";"SC";"RS";"MS";"MT";"GO";"DF";"Total"
+"0 a 6 dias";173;134;643;127;1152;164;171;886;393;863;314;358;908;357;303;1853;1573;299;1372;3166;874;502;717;264;366;659;275;18866
+"7 a 27 dias";56;43;192;48;327;39;51;253;115;271;93;124;297;97;132;409;521;120;480;1346;306;186;278;73;107;235;75;6274
+"28 a 364 dias";128;96;418;91;654;91;101;509;227;460;157;221;509;204;141;858;795;181;940;2018;433;262;377;164;239;340;103;10717
+"Menor 1 ano (ign)";-;-;-;-;1;-;-;1;-;-;-;-;-;-;-;1;-;-;2;-;-;-;-;1;1;-;-;7
+"Total";357;273;1253;266;2134;294;323;1649;735;1594;564;703;1714;658;576;3121;2889;600;2794;6530;1613;950;1372;502;713;1234;453;35864
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 

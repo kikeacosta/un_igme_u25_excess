@@ -1,0 +1,1309 @@
+"Notes"	"Standard Residence States"	"Standard Residence States Code"	"OE Gestational Age Recode 4"	"OE Gestational Age Recode 4 Code"	"Year"	"Year Code"	Fetal Deaths
+	"Alabama"	"01"	"20 - 23 weeks"	"02"	"2015"	"2015"	213
+	"Alabama"	"01"	"20 - 23 weeks"	"02"	"2016"	"2016"	216
+	"Alabama"	"01"	"20 - 23 weeks"	"02"	"2017"	"2017"	225
+	"Alabama"	"01"	"20 - 23 weeks"	"02"	"2018"	"2018"	208
+	"Alabama"	"01"	"20 - 23 weeks"	"02"	"2019"	"2019"	186
+	"Alabama"	"01"	"24 - 27 weeks"	"03"	"2015"	"2015"	65
+	"Alabama"	"01"	"24 - 27 weeks"	"03"	"2016"	"2016"	86
+	"Alabama"	"01"	"24 - 27 weeks"	"03"	"2017"	"2017"	81
+	"Alabama"	"01"	"24 - 27 weeks"	"03"	"2018"	"2018"	79
+	"Alabama"	"01"	"24 - 27 weeks"	"03"	"2019"	"2019"	94
+	"Alabama"	"01"	"28 weeks or more"	"04"	"2015"	"2015"	262
+	"Alabama"	"01"	"28 weeks or more"	"04"	"2016"	"2016"	253
+	"Alabama"	"01"	"28 weeks or more"	"04"	"2017"	"2017"	236
+	"Alabama"	"01"	"28 weeks or more"	"04"	"2018"	"2018"	208
+	"Alabama"	"01"	"28 weeks or more"	"04"	"2019"	"2019"	246
+	"Alabama"	"01"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Alabama"	"01"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Alabama"	"01"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Alabama"	"01"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Alabama"	"01"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Alabama"	"01"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Alabama"	"01"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Alabama"	"01"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Alabama"	"01"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Alabama"	"01"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Alaska"	"02"	"20 - 23 weeks"	"02"	"2015"	"2015"	16
+	"Alaska"	"02"	"20 - 23 weeks"	"02"	"2016"	"2016"	22
+	"Alaska"	"02"	"20 - 23 weeks"	"02"	"2017"	"2017"	26
+	"Alaska"	"02"	"20 - 23 weeks"	"02"	"2018"	"2018"	10
+	"Alaska"	"02"	"20 - 23 weeks"	"02"	"2019"	"2019"	13
+	"Alaska"	"02"	"24 - 27 weeks"	"03"	"2015"	"2015"	Suppressed
+	"Alaska"	"02"	"24 - 27 weeks"	"03"	"2016"	"2016"	Suppressed
+	"Alaska"	"02"	"24 - 27 weeks"	"03"	"2017"	"2017"	12
+	"Alaska"	"02"	"24 - 27 weeks"	"03"	"2018"	"2018"	10
+	"Alaska"	"02"	"24 - 27 weeks"	"03"	"2019"	"2019"	17
+	"Alaska"	"02"	"28 weeks or more"	"04"	"2015"	"2015"	35
+	"Alaska"	"02"	"28 weeks or more"	"04"	"2016"	"2016"	46
+	"Alaska"	"02"	"28 weeks or more"	"04"	"2017"	"2017"	35
+	"Alaska"	"02"	"28 weeks or more"	"04"	"2018"	"2018"	26
+	"Alaska"	"02"	"28 weeks or more"	"04"	"2019"	"2019"	24
+	"Alaska"	"02"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Alaska"	"02"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Alaska"	"02"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Alaska"	"02"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Alaska"	"02"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Alaska"	"02"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Alaska"	"02"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Alaska"	"02"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Alaska"	"02"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Alaska"	"02"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Arizona"	"04"	"20 - 23 weeks"	"02"	"2015"	"2015"	182
+	"Arizona"	"04"	"20 - 23 weeks"	"02"	"2016"	"2016"	160
+	"Arizona"	"04"	"20 - 23 weeks"	"02"	"2017"	"2017"	147
+	"Arizona"	"04"	"20 - 23 weeks"	"02"	"2018"	"2018"	150
+	"Arizona"	"04"	"20 - 23 weeks"	"02"	"2019"	"2019"	175
+	"Arizona"	"04"	"24 - 27 weeks"	"03"	"2015"	"2015"	69
+	"Arizona"	"04"	"24 - 27 weeks"	"03"	"2016"	"2016"	67
+	"Arizona"	"04"	"24 - 27 weeks"	"03"	"2017"	"2017"	75
+	"Arizona"	"04"	"24 - 27 weeks"	"03"	"2018"	"2018"	72
+	"Arizona"	"04"	"24 - 27 weeks"	"03"	"2019"	"2019"	71
+	"Arizona"	"04"	"28 weeks or more"	"04"	"2015"	"2015"	270
+	"Arizona"	"04"	"28 weeks or more"	"04"	"2016"	"2016"	233
+	"Arizona"	"04"	"28 weeks or more"	"04"	"2017"	"2017"	243
+	"Arizona"	"04"	"28 weeks or more"	"04"	"2018"	"2018"	251
+	"Arizona"	"04"	"28 weeks or more"	"04"	"2019"	"2019"	251
+	"Arizona"	"04"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Arizona"	"04"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Arizona"	"04"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Arizona"	"04"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Arizona"	"04"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Arizona"	"04"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Arizona"	"04"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Arizona"	"04"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Arizona"	"04"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Arizona"	"04"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Arkansas"	"05"	"20 - 23 weeks"	"02"	"2015"	"2015"	72
+	"Arkansas"	"05"	"20 - 23 weeks"	"02"	"2016"	"2016"	46
+	"Arkansas"	"05"	"20 - 23 weeks"	"02"	"2017"	"2017"	66
+	"Arkansas"	"05"	"20 - 23 weeks"	"02"	"2018"	"2018"	84
+	"Arkansas"	"05"	"20 - 23 weeks"	"02"	"2019"	"2019"	116
+	"Arkansas"	"05"	"24 - 27 weeks"	"03"	"2015"	"2015"	42
+	"Arkansas"	"05"	"24 - 27 weeks"	"03"	"2016"	"2016"	35
+	"Arkansas"	"05"	"24 - 27 weeks"	"03"	"2017"	"2017"	43
+	"Arkansas"	"05"	"24 - 27 weeks"	"03"	"2018"	"2018"	44
+	"Arkansas"	"05"	"24 - 27 weeks"	"03"	"2019"	"2019"	57
+	"Arkansas"	"05"	"28 weeks or more"	"04"	"2015"	"2015"	133
+	"Arkansas"	"05"	"28 weeks or more"	"04"	"2016"	"2016"	130
+	"Arkansas"	"05"	"28 weeks or more"	"04"	"2017"	"2017"	133
+	"Arkansas"	"05"	"28 weeks or more"	"04"	"2018"	"2018"	131
+	"Arkansas"	"05"	"28 weeks or more"	"04"	"2019"	"2019"	133
+	"Arkansas"	"05"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Arkansas"	"05"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Arkansas"	"05"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Arkansas"	"05"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Arkansas"	"05"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Arkansas"	"05"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Arkansas"	"05"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Arkansas"	"05"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Arkansas"	"05"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Arkansas"	"05"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"California"	"06"	"20 - 23 weeks"	"02"	"2015"	"2015"	853
+	"California"	"06"	"20 - 23 weeks"	"02"	"2016"	"2016"	901
+	"California"	"06"	"20 - 23 weeks"	"02"	"2017"	"2017"	822
+	"California"	"06"	"20 - 23 weeks"	"02"	"2018"	"2018"	821
+	"California"	"06"	"20 - 23 weeks"	"02"	"2019"	"2019"	783
+	"California"	"06"	"24 - 27 weeks"	"03"	"2015"	"2015"	370
+	"California"	"06"	"24 - 27 weeks"	"03"	"2016"	"2016"	374
+	"California"	"06"	"24 - 27 weeks"	"03"	"2017"	"2017"	371
+	"California"	"06"	"24 - 27 weeks"	"03"	"2018"	"2018"	335
+	"California"	"06"	"24 - 27 weeks"	"03"	"2019"	"2019"	300
+	"California"	"06"	"28 weeks or more"	"04"	"2015"	"2015"	1221
+	"California"	"06"	"28 weeks or more"	"04"	"2016"	"2016"	1224
+	"California"	"06"	"28 weeks or more"	"04"	"2017"	"2017"	1188
+	"California"	"06"	"28 weeks or more"	"04"	"2018"	"2018"	1108
+	"California"	"06"	"28 weeks or more"	"04"	"2019"	"2019"	1069
+	"California"	"06"	"Unknown"	"05"	"2015"	"2015"	21
+	"California"	"06"	"Unknown"	"05"	"2016"	"2016"	11
+	"California"	"06"	"Unknown"	"05"	"2017"	"2017"	20
+	"California"	"06"	"Unknown"	"05"	"2018"	"2018"	14
+	"California"	"06"	"Unknown"	"05"	"2019"	"2019"	19
+	"California"	"06"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"California"	"06"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"California"	"06"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"California"	"06"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"California"	"06"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Colorado"	"08"	"20 - 23 weeks"	"02"	"2015"	"2015"	130
+	"Colorado"	"08"	"20 - 23 weeks"	"02"	"2016"	"2016"	143
+	"Colorado"	"08"	"20 - 23 weeks"	"02"	"2017"	"2017"	164
+	"Colorado"	"08"	"20 - 23 weeks"	"02"	"2018"	"2018"	136
+	"Colorado"	"08"	"20 - 23 weeks"	"02"	"2019"	"2019"	136
+	"Colorado"	"08"	"24 - 27 weeks"	"03"	"2015"	"2015"	61
+	"Colorado"	"08"	"24 - 27 weeks"	"03"	"2016"	"2016"	64
+	"Colorado"	"08"	"24 - 27 weeks"	"03"	"2017"	"2017"	49
+	"Colorado"	"08"	"24 - 27 weeks"	"03"	"2018"	"2018"	48
+	"Colorado"	"08"	"24 - 27 weeks"	"03"	"2019"	"2019"	42
+	"Colorado"	"08"	"28 weeks or more"	"04"	"2015"	"2015"	186
+	"Colorado"	"08"	"28 weeks or more"	"04"	"2016"	"2016"	186
+	"Colorado"	"08"	"28 weeks or more"	"04"	"2017"	"2017"	147
+	"Colorado"	"08"	"28 weeks or more"	"04"	"2018"	"2018"	154
+	"Colorado"	"08"	"28 weeks or more"	"04"	"2019"	"2019"	172
+	"Colorado"	"08"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Colorado"	"08"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Colorado"	"08"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Colorado"	"08"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Colorado"	"08"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Colorado"	"08"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Colorado"	"08"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Colorado"	"08"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Colorado"	"08"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Colorado"	"08"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Connecticut"	"09"	"20 - 23 weeks"	"02"	"2015"	"2015"	59
+	"Connecticut"	"09"	"20 - 23 weeks"	"02"	"2016"	"2016"	51
+	"Connecticut"	"09"	"20 - 23 weeks"	"02"	"2017"	"2017"	73
+	"Connecticut"	"09"	"20 - 23 weeks"	"02"	"2018"	"2018"	68
+	"Connecticut"	"09"	"20 - 23 weeks"	"02"	"2019"	"2019"	46
+	"Connecticut"	"09"	"24 - 27 weeks"	"03"	"2015"	"2015"	18
+	"Connecticut"	"09"	"24 - 27 weeks"	"03"	"2016"	"2016"	20
+	"Connecticut"	"09"	"24 - 27 weeks"	"03"	"2017"	"2017"	26
+	"Connecticut"	"09"	"24 - 27 weeks"	"03"	"2018"	"2018"	14
+	"Connecticut"	"09"	"24 - 27 weeks"	"03"	"2019"	"2019"	26
+	"Connecticut"	"09"	"28 weeks or more"	"04"	"2015"	"2015"	92
+	"Connecticut"	"09"	"28 weeks or more"	"04"	"2016"	"2016"	76
+	"Connecticut"	"09"	"28 weeks or more"	"04"	"2017"	"2017"	86
+	"Connecticut"	"09"	"28 weeks or more"	"04"	"2018"	"2018"	91
+	"Connecticut"	"09"	"28 weeks or more"	"04"	"2019"	"2019"	61
+	"Connecticut"	"09"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Connecticut"	"09"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Connecticut"	"09"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Connecticut"	"09"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Connecticut"	"09"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Connecticut"	"09"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Connecticut"	"09"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Connecticut"	"09"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Connecticut"	"09"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Connecticut"	"09"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Delaware"	"10"	"20 - 23 weeks"	"02"	"2015"	"2015"	28
+	"Delaware"	"10"	"20 - 23 weeks"	"02"	"2016"	"2016"	14
+	"Delaware"	"10"	"20 - 23 weeks"	"02"	"2017"	"2017"	17
+	"Delaware"	"10"	"20 - 23 weeks"	"02"	"2018"	"2018"	Suppressed
+	"Delaware"	"10"	"20 - 23 weeks"	"02"	"2019"	"2019"	14
+	"Delaware"	"10"	"24 - 27 weeks"	"03"	"2015"	"2015"	Suppressed
+	"Delaware"	"10"	"24 - 27 weeks"	"03"	"2016"	"2016"	12
+	"Delaware"	"10"	"24 - 27 weeks"	"03"	"2017"	"2017"	Suppressed
+	"Delaware"	"10"	"24 - 27 weeks"	"03"	"2018"	"2018"	13
+	"Delaware"	"10"	"24 - 27 weeks"	"03"	"2019"	"2019"	Suppressed
+	"Delaware"	"10"	"28 weeks or more"	"04"	"2015"	"2015"	36
+	"Delaware"	"10"	"28 weeks or more"	"04"	"2016"	"2016"	27
+	"Delaware"	"10"	"28 weeks or more"	"04"	"2017"	"2017"	33
+	"Delaware"	"10"	"28 weeks or more"	"04"	"2018"	"2018"	39
+	"Delaware"	"10"	"28 weeks or more"	"04"	"2019"	"2019"	38
+	"Delaware"	"10"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Delaware"	"10"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Delaware"	"10"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Delaware"	"10"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Delaware"	"10"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Delaware"	"10"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Delaware"	"10"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Delaware"	"10"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Delaware"	"10"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Delaware"	"10"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"District of Columbia"	"11"	"20 - 23 weeks"	"02"	"2015"	"2015"	42
+	"District of Columbia"	"11"	"20 - 23 weeks"	"02"	"2016"	"2016"	37
+	"District of Columbia"	"11"	"20 - 23 weeks"	"02"	"2017"	"2017"	22
+	"District of Columbia"	"11"	"20 - 23 weeks"	"02"	"2018"	"2018"	35
+	"District of Columbia"	"11"	"20 - 23 weeks"	"02"	"2019"	"2019"	30
+	"District of Columbia"	"11"	"24 - 27 weeks"	"03"	"2015"	"2015"	10
+	"District of Columbia"	"11"	"24 - 27 weeks"	"03"	"2016"	"2016"	16
+	"District of Columbia"	"11"	"24 - 27 weeks"	"03"	"2017"	"2017"	10
+	"District of Columbia"	"11"	"24 - 27 weeks"	"03"	"2018"	"2018"	12
+	"District of Columbia"	"11"	"24 - 27 weeks"	"03"	"2019"	"2019"	16
+	"District of Columbia"	"11"	"28 weeks or more"	"04"	"2015"	"2015"	40
+	"District of Columbia"	"11"	"28 weeks or more"	"04"	"2016"	"2016"	31
+	"District of Columbia"	"11"	"28 weeks or more"	"04"	"2017"	"2017"	36
+	"District of Columbia"	"11"	"28 weeks or more"	"04"	"2018"	"2018"	27
+	"District of Columbia"	"11"	"28 weeks or more"	"04"	"2019"	"2019"	40
+	"District of Columbia"	"11"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"District of Columbia"	"11"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"District of Columbia"	"11"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"District of Columbia"	"11"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"District of Columbia"	"11"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"District of Columbia"	"11"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"District of Columbia"	"11"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"District of Columbia"	"11"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"District of Columbia"	"11"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"District of Columbia"	"11"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Florida"	"12"	"20 - 23 weeks"	"02"	"2015"	"2015"	660
+	"Florida"	"12"	"20 - 23 weeks"	"02"	"2016"	"2016"	627
+	"Florida"	"12"	"20 - 23 weeks"	"02"	"2017"	"2017"	586
+	"Florida"	"12"	"20 - 23 weeks"	"02"	"2018"	"2018"	612
+	"Florida"	"12"	"20 - 23 weeks"	"02"	"2019"	"2019"	571
+	"Florida"	"12"	"24 - 27 weeks"	"03"	"2015"	"2015"	228
+	"Florida"	"12"	"24 - 27 weeks"	"03"	"2016"	"2016"	228
+	"Florida"	"12"	"24 - 27 weeks"	"03"	"2017"	"2017"	244
+	"Florida"	"12"	"24 - 27 weeks"	"03"	"2018"	"2018"	234
+	"Florida"	"12"	"24 - 27 weeks"	"03"	"2019"	"2019"	238
+	"Florida"	"12"	"28 weeks or more"	"04"	"2015"	"2015"	672
+	"Florida"	"12"	"28 weeks or more"	"04"	"2016"	"2016"	697
+	"Florida"	"12"	"28 weeks or more"	"04"	"2017"	"2017"	728
+	"Florida"	"12"	"28 weeks or more"	"04"	"2018"	"2018"	633
+	"Florida"	"12"	"28 weeks or more"	"04"	"2019"	"2019"	690
+	"Florida"	"12"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Florida"	"12"	"Unknown"	"05"	"2016"	"2016"	20
+	"Florida"	"12"	"Unknown"	"05"	"2017"	"2017"	30
+	"Florida"	"12"	"Unknown"	"05"	"2018"	"2018"	36
+	"Florida"	"12"	"Unknown"	"05"	"2019"	"2019"	39
+	"Florida"	"12"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Florida"	"12"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Florida"	"12"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Florida"	"12"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Florida"	"12"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Georgia"	"13"	"20 - 23 weeks"	"02"	"2015"	"2015"	485
+	"Georgia"	"13"	"20 - 23 weeks"	"02"	"2016"	"2016"	428
+	"Georgia"	"13"	"20 - 23 weeks"	"02"	"2017"	"2017"	425
+	"Georgia"	"13"	"20 - 23 weeks"	"02"	"2018"	"2018"	410
+	"Georgia"	"13"	"20 - 23 weeks"	"02"	"2019"	"2019"	385
+	"Georgia"	"13"	"24 - 27 weeks"	"03"	"2015"	"2015"	173
+	"Georgia"	"13"	"24 - 27 weeks"	"03"	"2016"	"2016"	165
+	"Georgia"	"13"	"24 - 27 weeks"	"03"	"2017"	"2017"	176
+	"Georgia"	"13"	"24 - 27 weeks"	"03"	"2018"	"2018"	144
+	"Georgia"	"13"	"24 - 27 weeks"	"03"	"2019"	"2019"	134
+	"Georgia"	"13"	"28 weeks or more"	"04"	"2015"	"2015"	471
+	"Georgia"	"13"	"28 weeks or more"	"04"	"2016"	"2016"	474
+	"Georgia"	"13"	"28 weeks or more"	"04"	"2017"	"2017"	436
+	"Georgia"	"13"	"28 weeks or more"	"04"	"2018"	"2018"	417
+	"Georgia"	"13"	"28 weeks or more"	"04"	"2019"	"2019"	453
+	"Georgia"	"13"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Georgia"	"13"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Georgia"	"13"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Georgia"	"13"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Georgia"	"13"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Georgia"	"13"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Georgia"	"13"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Georgia"	"13"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Georgia"	"13"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Georgia"	"13"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Hawaii"	"15"	"20 - 23 weeks"	"02"	"2015"	"2015"	52
+	"Hawaii"	"15"	"20 - 23 weeks"	"02"	"2016"	"2016"	50
+	"Hawaii"	"15"	"20 - 23 weeks"	"02"	"2017"	"2017"	49
+	"Hawaii"	"15"	"20 - 23 weeks"	"02"	"2018"	"2018"	48
+	"Hawaii"	"15"	"20 - 23 weeks"	"02"	"2019"	"2019"	37
+	"Hawaii"	"15"	"24 - 27 weeks"	"03"	"2015"	"2015"	14
+	"Hawaii"	"15"	"24 - 27 weeks"	"03"	"2016"	"2016"	20
+	"Hawaii"	"15"	"24 - 27 weeks"	"03"	"2017"	"2017"	13
+	"Hawaii"	"15"	"24 - 27 weeks"	"03"	"2018"	"2018"	20
+	"Hawaii"	"15"	"24 - 27 weeks"	"03"	"2019"	"2019"	20
+	"Hawaii"	"15"	"28 weeks or more"	"04"	"2015"	"2015"	32
+	"Hawaii"	"15"	"28 weeks or more"	"04"	"2016"	"2016"	47
+	"Hawaii"	"15"	"28 weeks or more"	"04"	"2017"	"2017"	55
+	"Hawaii"	"15"	"28 weeks or more"	"04"	"2018"	"2018"	51
+	"Hawaii"	"15"	"28 weeks or more"	"04"	"2019"	"2019"	28
+	"Hawaii"	"15"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Hawaii"	"15"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Hawaii"	"15"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Hawaii"	"15"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Hawaii"	"15"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Hawaii"	"15"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Hawaii"	"15"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Hawaii"	"15"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Hawaii"	"15"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Hawaii"	"15"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Idaho"	"16"	"20 - 23 weeks"	"02"	"2015"	"2015"	46
+	"Idaho"	"16"	"20 - 23 weeks"	"02"	"2016"	"2016"	32
+	"Idaho"	"16"	"20 - 23 weeks"	"02"	"2017"	"2017"	40
+	"Idaho"	"16"	"20 - 23 weeks"	"02"	"2018"	"2018"	41
+	"Idaho"	"16"	"20 - 23 weeks"	"02"	"2019"	"2019"	40
+	"Idaho"	"16"	"24 - 27 weeks"	"03"	"2015"	"2015"	19
+	"Idaho"	"16"	"24 - 27 weeks"	"03"	"2016"	"2016"	21
+	"Idaho"	"16"	"24 - 27 weeks"	"03"	"2017"	"2017"	13
+	"Idaho"	"16"	"24 - 27 weeks"	"03"	"2018"	"2018"	Suppressed
+	"Idaho"	"16"	"24 - 27 weeks"	"03"	"2019"	"2019"	11
+	"Idaho"	"16"	"28 weeks or more"	"04"	"2015"	"2015"	75
+	"Idaho"	"16"	"28 weeks or more"	"04"	"2016"	"2016"	59
+	"Idaho"	"16"	"28 weeks or more"	"04"	"2017"	"2017"	53
+	"Idaho"	"16"	"28 weeks or more"	"04"	"2018"	"2018"	62
+	"Idaho"	"16"	"28 weeks or more"	"04"	"2019"	"2019"	60
+	"Idaho"	"16"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Idaho"	"16"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Idaho"	"16"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Idaho"	"16"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Idaho"	"16"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Idaho"	"16"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Idaho"	"16"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Idaho"	"16"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Idaho"	"16"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Idaho"	"16"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Illinois"	"17"	"20 - 23 weeks"	"02"	"2015"	"2015"	409
+	"Illinois"	"17"	"20 - 23 weeks"	"02"	"2016"	"2016"	417
+	"Illinois"	"17"	"20 - 23 weeks"	"02"	"2017"	"2017"	367
+	"Illinois"	"17"	"20 - 23 weeks"	"02"	"2018"	"2018"	406
+	"Illinois"	"17"	"20 - 23 weeks"	"02"	"2019"	"2019"	328
+	"Illinois"	"17"	"24 - 27 weeks"	"03"	"2015"	"2015"	142
+	"Illinois"	"17"	"24 - 27 weeks"	"03"	"2016"	"2016"	127
+	"Illinois"	"17"	"24 - 27 weeks"	"03"	"2017"	"2017"	142
+	"Illinois"	"17"	"24 - 27 weeks"	"03"	"2018"	"2018"	139
+	"Illinois"	"17"	"24 - 27 weeks"	"03"	"2019"	"2019"	131
+	"Illinois"	"17"	"28 weeks or more"	"04"	"2015"	"2015"	423
+	"Illinois"	"17"	"28 weeks or more"	"04"	"2016"	"2016"	421
+	"Illinois"	"17"	"28 weeks or more"	"04"	"2017"	"2017"	399
+	"Illinois"	"17"	"28 weeks or more"	"04"	"2018"	"2018"	345
+	"Illinois"	"17"	"28 weeks or more"	"04"	"2019"	"2019"	370
+	"Illinois"	"17"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Illinois"	"17"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Illinois"	"17"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Illinois"	"17"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Illinois"	"17"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Illinois"	"17"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Illinois"	"17"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Illinois"	"17"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Illinois"	"17"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Illinois"	"17"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Indiana"	"18"	"20 - 23 weeks"	"02"	"2015"	"2015"	162
+	"Indiana"	"18"	"20 - 23 weeks"	"02"	"2016"	"2016"	175
+	"Indiana"	"18"	"20 - 23 weeks"	"02"	"2017"	"2017"	183
+	"Indiana"	"18"	"20 - 23 weeks"	"02"	"2018"	"2018"	194
+	"Indiana"	"18"	"20 - 23 weeks"	"02"	"2019"	"2019"	191
+	"Indiana"	"18"	"24 - 27 weeks"	"03"	"2015"	"2015"	81
+	"Indiana"	"18"	"24 - 27 weeks"	"03"	"2016"	"2016"	84
+	"Indiana"	"18"	"24 - 27 weeks"	"03"	"2017"	"2017"	69
+	"Indiana"	"18"	"24 - 27 weeks"	"03"	"2018"	"2018"	74
+	"Indiana"	"18"	"24 - 27 weeks"	"03"	"2019"	"2019"	67
+	"Indiana"	"18"	"28 weeks or more"	"04"	"2015"	"2015"	247
+	"Indiana"	"18"	"28 weeks or more"	"04"	"2016"	"2016"	247
+	"Indiana"	"18"	"28 weeks or more"	"04"	"2017"	"2017"	263
+	"Indiana"	"18"	"28 weeks or more"	"04"	"2018"	"2018"	228
+	"Indiana"	"18"	"28 weeks or more"	"04"	"2019"	"2019"	230
+	"Indiana"	"18"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Indiana"	"18"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Indiana"	"18"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Indiana"	"18"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Indiana"	"18"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Indiana"	"18"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Indiana"	"18"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Indiana"	"18"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Indiana"	"18"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Indiana"	"18"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Iowa"	"19"	"20 - 23 weeks"	"02"	"2015"	"2015"	67
+	"Iowa"	"19"	"20 - 23 weeks"	"02"	"2016"	"2016"	58
+	"Iowa"	"19"	"20 - 23 weeks"	"02"	"2017"	"2017"	68
+	"Iowa"	"19"	"20 - 23 weeks"	"02"	"2018"	"2018"	54
+	"Iowa"	"19"	"20 - 23 weeks"	"02"	"2019"	"2019"	65
+	"Iowa"	"19"	"24 - 27 weeks"	"03"	"2015"	"2015"	34
+	"Iowa"	"19"	"24 - 27 weeks"	"03"	"2016"	"2016"	34
+	"Iowa"	"19"	"24 - 27 weeks"	"03"	"2017"	"2017"	31
+	"Iowa"	"19"	"24 - 27 weeks"	"03"	"2018"	"2018"	20
+	"Iowa"	"19"	"24 - 27 weeks"	"03"	"2019"	"2019"	29
+	"Iowa"	"19"	"28 weeks or more"	"04"	"2015"	"2015"	82
+	"Iowa"	"19"	"28 weeks or more"	"04"	"2016"	"2016"	101
+	"Iowa"	"19"	"28 weeks or more"	"04"	"2017"	"2017"	97
+	"Iowa"	"19"	"28 weeks or more"	"04"	"2018"	"2018"	76
+	"Iowa"	"19"	"28 weeks or more"	"04"	"2019"	"2019"	101
+	"Iowa"	"19"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Iowa"	"19"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Iowa"	"19"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Iowa"	"19"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Iowa"	"19"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Iowa"	"19"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Iowa"	"19"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Iowa"	"19"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Iowa"	"19"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Iowa"	"19"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Kansas"	"20"	"20 - 23 weeks"	"02"	"2015"	"2015"	85
+	"Kansas"	"20"	"20 - 23 weeks"	"02"	"2016"	"2016"	72
+	"Kansas"	"20"	"20 - 23 weeks"	"02"	"2017"	"2017"	58
+	"Kansas"	"20"	"20 - 23 weeks"	"02"	"2018"	"2018"	77
+	"Kansas"	"20"	"20 - 23 weeks"	"02"	"2019"	"2019"	69
+	"Kansas"	"20"	"24 - 27 weeks"	"03"	"2015"	"2015"	44
+	"Kansas"	"20"	"24 - 27 weeks"	"03"	"2016"	"2016"	41
+	"Kansas"	"20"	"24 - 27 weeks"	"03"	"2017"	"2017"	36
+	"Kansas"	"20"	"24 - 27 weeks"	"03"	"2018"	"2018"	37
+	"Kansas"	"20"	"24 - 27 weeks"	"03"	"2019"	"2019"	37
+	"Kansas"	"20"	"28 weeks or more"	"04"	"2015"	"2015"	101
+	"Kansas"	"20"	"28 weeks or more"	"04"	"2016"	"2016"	139
+	"Kansas"	"20"	"28 weeks or more"	"04"	"2017"	"2017"	90
+	"Kansas"	"20"	"28 weeks or more"	"04"	"2018"	"2018"	90
+	"Kansas"	"20"	"28 weeks or more"	"04"	"2019"	"2019"	90
+	"Kansas"	"20"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Kansas"	"20"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Kansas"	"20"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Kansas"	"20"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Kansas"	"20"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Kansas"	"20"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Kansas"	"20"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Kansas"	"20"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Kansas"	"20"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Kansas"	"20"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Kentucky"	"21"	"20 - 23 weeks"	"02"	"2015"	"2015"	124
+	"Kentucky"	"21"	"20 - 23 weeks"	"02"	"2016"	"2016"	112
+	"Kentucky"	"21"	"20 - 23 weeks"	"02"	"2017"	"2017"	113
+	"Kentucky"	"21"	"20 - 23 weeks"	"02"	"2018"	"2018"	105
+	"Kentucky"	"21"	"20 - 23 weeks"	"02"	"2019"	"2019"	107
+	"Kentucky"	"21"	"24 - 27 weeks"	"03"	"2015"	"2015"	54
+	"Kentucky"	"21"	"24 - 27 weeks"	"03"	"2016"	"2016"	58
+	"Kentucky"	"21"	"24 - 27 weeks"	"03"	"2017"	"2017"	48
+	"Kentucky"	"21"	"24 - 27 weeks"	"03"	"2018"	"2018"	48
+	"Kentucky"	"21"	"24 - 27 weeks"	"03"	"2019"	"2019"	51
+	"Kentucky"	"21"	"28 weeks or more"	"04"	"2015"	"2015"	180
+	"Kentucky"	"21"	"28 weeks or more"	"04"	"2016"	"2016"	173
+	"Kentucky"	"21"	"28 weeks or more"	"04"	"2017"	"2017"	190
+	"Kentucky"	"21"	"28 weeks or more"	"04"	"2018"	"2018"	158
+	"Kentucky"	"21"	"28 weeks or more"	"04"	"2019"	"2019"	148
+	"Kentucky"	"21"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Kentucky"	"21"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Kentucky"	"21"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Kentucky"	"21"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Kentucky"	"21"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Kentucky"	"21"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Kentucky"	"21"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Kentucky"	"21"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Kentucky"	"21"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Kentucky"	"21"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Louisiana"	"22"	"20 - 23 weeks"	"02"	"2015"	"2015"	127
+	"Louisiana"	"22"	"20 - 23 weeks"	"02"	"2016"	"2016"	149
+	"Louisiana"	"22"	"20 - 23 weeks"	"02"	"2017"	"2017"	109
+	"Louisiana"	"22"	"20 - 23 weeks"	"02"	"2018"	"2018"	105
+	"Louisiana"	"22"	"20 - 23 weeks"	"02"	"2019"	"2019"	105
+	"Louisiana"	"22"	"24 - 27 weeks"	"03"	"2015"	"2015"	50
+	"Louisiana"	"22"	"24 - 27 weeks"	"03"	"2016"	"2016"	60
+	"Louisiana"	"22"	"24 - 27 weeks"	"03"	"2017"	"2017"	52
+	"Louisiana"	"22"	"24 - 27 weeks"	"03"	"2018"	"2018"	66
+	"Louisiana"	"22"	"24 - 27 weeks"	"03"	"2019"	"2019"	58
+	"Louisiana"	"22"	"28 weeks or more"	"04"	"2015"	"2015"	168
+	"Louisiana"	"22"	"28 weeks or more"	"04"	"2016"	"2016"	175
+	"Louisiana"	"22"	"28 weeks or more"	"04"	"2017"	"2017"	167
+	"Louisiana"	"22"	"28 weeks or more"	"04"	"2018"	"2018"	154
+	"Louisiana"	"22"	"28 weeks or more"	"04"	"2019"	"2019"	124
+	"Louisiana"	"22"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Louisiana"	"22"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Louisiana"	"22"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Louisiana"	"22"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Louisiana"	"22"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Louisiana"	"22"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Louisiana"	"22"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Louisiana"	"22"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Louisiana"	"22"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Louisiana"	"22"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Maine"	"23"	"20 - 23 weeks"	"02"	"2015"	"2015"	24
+	"Maine"	"23"	"20 - 23 weeks"	"02"	"2016"	"2016"	11
+	"Maine"	"23"	"20 - 23 weeks"	"02"	"2017"	"2017"	29
+	"Maine"	"23"	"20 - 23 weeks"	"02"	"2018"	"2018"	29
+	"Maine"	"23"	"20 - 23 weeks"	"02"	"2019"	"2019"	26
+	"Maine"	"23"	"24 - 27 weeks"	"03"	"2015"	"2015"	Suppressed
+	"Maine"	"23"	"24 - 27 weeks"	"03"	"2016"	"2016"	Suppressed
+	"Maine"	"23"	"24 - 27 weeks"	"03"	"2017"	"2017"	Suppressed
+	"Maine"	"23"	"24 - 27 weeks"	"03"	"2018"	"2018"	13
+	"Maine"	"23"	"24 - 27 weeks"	"03"	"2019"	"2019"	Suppressed
+	"Maine"	"23"	"28 weeks or more"	"04"	"2015"	"2015"	33
+	"Maine"	"23"	"28 weeks or more"	"04"	"2016"	"2016"	23
+	"Maine"	"23"	"28 weeks or more"	"04"	"2017"	"2017"	32
+	"Maine"	"23"	"28 weeks or more"	"04"	"2018"	"2018"	29
+	"Maine"	"23"	"28 weeks or more"	"04"	"2019"	"2019"	31
+	"Maine"	"23"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Maine"	"23"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Maine"	"23"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Maine"	"23"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Maine"	"23"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Maine"	"23"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Maine"	"23"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Maine"	"23"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Maine"	"23"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Maine"	"23"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Maryland"	"24"	"20 - 23 weeks"	"02"	"2015"	"2015"	209
+	"Maryland"	"24"	"20 - 23 weeks"	"02"	"2016"	"2016"	235
+	"Maryland"	"24"	"20 - 23 weeks"	"02"	"2017"	"2017"	214
+	"Maryland"	"24"	"20 - 23 weeks"	"02"	"2018"	"2018"	208
+	"Maryland"	"24"	"20 - 23 weeks"	"02"	"2019"	"2019"	179
+	"Maryland"	"24"	"24 - 27 weeks"	"03"	"2015"	"2015"	80
+	"Maryland"	"24"	"24 - 27 weeks"	"03"	"2016"	"2016"	92
+	"Maryland"	"24"	"24 - 27 weeks"	"03"	"2017"	"2017"	85
+	"Maryland"	"24"	"24 - 27 weeks"	"03"	"2018"	"2018"	92
+	"Maryland"	"24"	"24 - 27 weeks"	"03"	"2019"	"2019"	78
+	"Maryland"	"24"	"28 weeks or more"	"04"	"2015"	"2015"	240
+	"Maryland"	"24"	"28 weeks or more"	"04"	"2016"	"2016"	223
+	"Maryland"	"24"	"28 weeks or more"	"04"	"2017"	"2017"	206
+	"Maryland"	"24"	"28 weeks or more"	"04"	"2018"	"2018"	197
+	"Maryland"	"24"	"28 weeks or more"	"04"	"2019"	"2019"	205
+	"Maryland"	"24"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Maryland"	"24"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Maryland"	"24"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Maryland"	"24"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Maryland"	"24"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Maryland"	"24"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Maryland"	"24"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Maryland"	"24"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Maryland"	"24"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Maryland"	"24"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Massachusetts"	"25"	"20 - 23 weeks"	"02"	"2015"	"2015"	89
+	"Massachusetts"	"25"	"20 - 23 weeks"	"02"	"2016"	"2016"	96
+	"Massachusetts"	"25"	"20 - 23 weeks"	"02"	"2017"	"2017"	94
+	"Massachusetts"	"25"	"20 - 23 weeks"	"02"	"2018"	"2018"	111
+	"Massachusetts"	"25"	"20 - 23 weeks"	"02"	"2019"	"2019"	94
+	"Massachusetts"	"25"	"24 - 27 weeks"	"03"	"2015"	"2015"	45
+	"Massachusetts"	"25"	"24 - 27 weeks"	"03"	"2016"	"2016"	54
+	"Massachusetts"	"25"	"24 - 27 weeks"	"03"	"2017"	"2017"	38
+	"Massachusetts"	"25"	"24 - 27 weeks"	"03"	"2018"	"2018"	44
+	"Massachusetts"	"25"	"24 - 27 weeks"	"03"	"2019"	"2019"	44
+	"Massachusetts"	"25"	"28 weeks or more"	"04"	"2015"	"2015"	201
+	"Massachusetts"	"25"	"28 weeks or more"	"04"	"2016"	"2016"	181
+	"Massachusetts"	"25"	"28 weeks or more"	"04"	"2017"	"2017"	156
+	"Massachusetts"	"25"	"28 weeks or more"	"04"	"2018"	"2018"	160
+	"Massachusetts"	"25"	"28 weeks or more"	"04"	"2019"	"2019"	160
+	"Massachusetts"	"25"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Massachusetts"	"25"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Massachusetts"	"25"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Massachusetts"	"25"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Massachusetts"	"25"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Massachusetts"	"25"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Massachusetts"	"25"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Massachusetts"	"25"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Massachusetts"	"25"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Massachusetts"	"25"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Michigan"	"26"	"20 - 23 weeks"	"02"	"2015"	"2015"	187
+	"Michigan"	"26"	"20 - 23 weeks"	"02"	"2016"	"2016"	238
+	"Michigan"	"26"	"20 - 23 weeks"	"02"	"2017"	"2017"	212
+	"Michigan"	"26"	"20 - 23 weeks"	"02"	"2018"	"2018"	236
+	"Michigan"	"26"	"20 - 23 weeks"	"02"	"2019"	"2019"	242
+	"Michigan"	"26"	"24 - 27 weeks"	"03"	"2015"	"2015"	87
+	"Michigan"	"26"	"24 - 27 weeks"	"03"	"2016"	"2016"	88
+	"Michigan"	"26"	"24 - 27 weeks"	"03"	"2017"	"2017"	95
+	"Michigan"	"26"	"24 - 27 weeks"	"03"	"2018"	"2018"	91
+	"Michigan"	"26"	"24 - 27 weeks"	"03"	"2019"	"2019"	87
+	"Michigan"	"26"	"28 weeks or more"	"04"	"2015"	"2015"	279
+	"Michigan"	"26"	"28 weeks or more"	"04"	"2016"	"2016"	304
+	"Michigan"	"26"	"28 weeks or more"	"04"	"2017"	"2017"	299
+	"Michigan"	"26"	"28 weeks or more"	"04"	"2018"	"2018"	325
+	"Michigan"	"26"	"28 weeks or more"	"04"	"2019"	"2019"	321
+	"Michigan"	"26"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Michigan"	"26"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Michigan"	"26"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Michigan"	"26"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Michigan"	"26"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Michigan"	"26"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Michigan"	"26"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Michigan"	"26"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Michigan"	"26"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Michigan"	"26"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Minnesota"	"27"	"20 - 23 weeks"	"02"	"2015"	"2015"	140
+	"Minnesota"	"27"	"20 - 23 weeks"	"02"	"2016"	"2016"	148
+	"Minnesota"	"27"	"20 - 23 weeks"	"02"	"2017"	"2017"	149
+	"Minnesota"	"27"	"20 - 23 weeks"	"02"	"2018"	"2018"	155
+	"Minnesota"	"27"	"20 - 23 weeks"	"02"	"2019"	"2019"	133
+	"Minnesota"	"27"	"24 - 27 weeks"	"03"	"2015"	"2015"	56
+	"Minnesota"	"27"	"24 - 27 weeks"	"03"	"2016"	"2016"	39
+	"Minnesota"	"27"	"24 - 27 weeks"	"03"	"2017"	"2017"	62
+	"Minnesota"	"27"	"24 - 27 weeks"	"03"	"2018"	"2018"	53
+	"Minnesota"	"27"	"24 - 27 weeks"	"03"	"2019"	"2019"	46
+	"Minnesota"	"27"	"28 weeks or more"	"04"	"2015"	"2015"	206
+	"Minnesota"	"27"	"28 weeks or more"	"04"	"2016"	"2016"	191
+	"Minnesota"	"27"	"28 weeks or more"	"04"	"2017"	"2017"	174
+	"Minnesota"	"27"	"28 weeks or more"	"04"	"2018"	"2018"	183
+	"Minnesota"	"27"	"28 weeks or more"	"04"	"2019"	"2019"	180
+	"Minnesota"	"27"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Minnesota"	"27"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Minnesota"	"27"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Minnesota"	"27"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Minnesota"	"27"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Minnesota"	"27"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Minnesota"	"27"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Minnesota"	"27"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Minnesota"	"27"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Minnesota"	"27"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Mississippi"	"28"	"20 - 23 weeks"	"02"	"2015"	"2015"	131
+	"Mississippi"	"28"	"20 - 23 weeks"	"02"	"2016"	"2016"	173
+	"Mississippi"	"28"	"20 - 23 weeks"	"02"	"2017"	"2017"	159
+	"Mississippi"	"28"	"20 - 23 weeks"	"02"	"2018"	"2018"	136
+	"Mississippi"	"28"	"20 - 23 weeks"	"02"	"2019"	"2019"	123
+	"Mississippi"	"28"	"24 - 27 weeks"	"03"	"2015"	"2015"	62
+	"Mississippi"	"28"	"24 - 27 weeks"	"03"	"2016"	"2016"	62
+	"Mississippi"	"28"	"24 - 27 weeks"	"03"	"2017"	"2017"	73
+	"Mississippi"	"28"	"24 - 27 weeks"	"03"	"2018"	"2018"	67
+	"Mississippi"	"28"	"24 - 27 weeks"	"03"	"2019"	"2019"	58
+	"Mississippi"	"28"	"28 weeks or more"	"04"	"2015"	"2015"	155
+	"Mississippi"	"28"	"28 weeks or more"	"04"	"2016"	"2016"	163
+	"Mississippi"	"28"	"28 weeks or more"	"04"	"2017"	"2017"	184
+	"Mississippi"	"28"	"28 weeks or more"	"04"	"2018"	"2018"	186
+	"Mississippi"	"28"	"28 weeks or more"	"04"	"2019"	"2019"	166
+	"Mississippi"	"28"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Mississippi"	"28"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Mississippi"	"28"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Mississippi"	"28"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Mississippi"	"28"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Mississippi"	"28"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Mississippi"	"28"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Mississippi"	"28"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Mississippi"	"28"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Mississippi"	"28"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Missouri"	"29"	"20 - 23 weeks"	"02"	"2015"	"2015"	160
+	"Missouri"	"29"	"20 - 23 weeks"	"02"	"2016"	"2016"	152
+	"Missouri"	"29"	"20 - 23 weeks"	"02"	"2017"	"2017"	152
+	"Missouri"	"29"	"20 - 23 weeks"	"02"	"2018"	"2018"	133
+	"Missouri"	"29"	"20 - 23 weeks"	"02"	"2019"	"2019"	126
+	"Missouri"	"29"	"24 - 27 weeks"	"03"	"2015"	"2015"	73
+	"Missouri"	"29"	"24 - 27 weeks"	"03"	"2016"	"2016"	81
+	"Missouri"	"29"	"24 - 27 weeks"	"03"	"2017"	"2017"	67
+	"Missouri"	"29"	"24 - 27 weeks"	"03"	"2018"	"2018"	69
+	"Missouri"	"29"	"24 - 27 weeks"	"03"	"2019"	"2019"	78
+	"Missouri"	"29"	"28 weeks or more"	"04"	"2015"	"2015"	224
+	"Missouri"	"29"	"28 weeks or more"	"04"	"2016"	"2016"	229
+	"Missouri"	"29"	"28 weeks or more"	"04"	"2017"	"2017"	210
+	"Missouri"	"29"	"28 weeks or more"	"04"	"2018"	"2018"	198
+	"Missouri"	"29"	"28 weeks or more"	"04"	"2019"	"2019"	197
+	"Missouri"	"29"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Missouri"	"29"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Missouri"	"29"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Missouri"	"29"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Missouri"	"29"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Missouri"	"29"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Missouri"	"29"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Missouri"	"29"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Missouri"	"29"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Missouri"	"29"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Montana"	"30"	"20 - 23 weeks"	"02"	"2015"	"2015"	10
+	"Montana"	"30"	"20 - 23 weeks"	"02"	"2016"	"2016"	14
+	"Montana"	"30"	"20 - 23 weeks"	"02"	"2017"	"2017"	21
+	"Montana"	"30"	"20 - 23 weeks"	"02"	"2018"	"2018"	16
+	"Montana"	"30"	"20 - 23 weeks"	"02"	"2019"	"2019"	10
+	"Montana"	"30"	"24 - 27 weeks"	"03"	"2015"	"2015"	Suppressed
+	"Montana"	"30"	"24 - 27 weeks"	"03"	"2016"	"2016"	Suppressed
+	"Montana"	"30"	"24 - 27 weeks"	"03"	"2017"	"2017"	Suppressed
+	"Montana"	"30"	"24 - 27 weeks"	"03"	"2018"	"2018"	Suppressed
+	"Montana"	"30"	"24 - 27 weeks"	"03"	"2019"	"2019"	Suppressed
+	"Montana"	"30"	"28 weeks or more"	"04"	"2015"	"2015"	32
+	"Montana"	"30"	"28 weeks or more"	"04"	"2016"	"2016"	30
+	"Montana"	"30"	"28 weeks or more"	"04"	"2017"	"2017"	24
+	"Montana"	"30"	"28 weeks or more"	"04"	"2018"	"2018"	27
+	"Montana"	"30"	"28 weeks or more"	"04"	"2019"	"2019"	36
+	"Montana"	"30"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Montana"	"30"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Montana"	"30"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Montana"	"30"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Montana"	"30"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Montana"	"30"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Montana"	"30"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Montana"	"30"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Montana"	"30"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Montana"	"30"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Nebraska"	"31"	"20 - 23 weeks"	"02"	"2015"	"2015"	56
+	"Nebraska"	"31"	"20 - 23 weeks"	"02"	"2016"	"2016"	45
+	"Nebraska"	"31"	"20 - 23 weeks"	"02"	"2017"	"2017"	57
+	"Nebraska"	"31"	"20 - 23 weeks"	"02"	"2018"	"2018"	37
+	"Nebraska"	"31"	"20 - 23 weeks"	"02"	"2019"	"2019"	37
+	"Nebraska"	"31"	"24 - 27 weeks"	"03"	"2015"	"2015"	22
+	"Nebraska"	"31"	"24 - 27 weeks"	"03"	"2016"	"2016"	20
+	"Nebraska"	"31"	"24 - 27 weeks"	"03"	"2017"	"2017"	24
+	"Nebraska"	"31"	"24 - 27 weeks"	"03"	"2018"	"2018"	18
+	"Nebraska"	"31"	"24 - 27 weeks"	"03"	"2019"	"2019"	27
+	"Nebraska"	"31"	"28 weeks or more"	"04"	"2015"	"2015"	79
+	"Nebraska"	"31"	"28 weeks or more"	"04"	"2016"	"2016"	87
+	"Nebraska"	"31"	"28 weeks or more"	"04"	"2017"	"2017"	83
+	"Nebraska"	"31"	"28 weeks or more"	"04"	"2018"	"2018"	50
+	"Nebraska"	"31"	"28 weeks or more"	"04"	"2019"	"2019"	61
+	"Nebraska"	"31"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Nebraska"	"31"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Nebraska"	"31"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Nebraska"	"31"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Nebraska"	"31"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Nebraska"	"31"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Nebraska"	"31"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Nebraska"	"31"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Nebraska"	"31"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Nebraska"	"31"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Nevada"	"32"	"20 - 23 weeks"	"02"	"2015"	"2015"	88
+	"Nevada"	"32"	"20 - 23 weeks"	"02"	"2016"	"2016"	93
+	"Nevada"	"32"	"20 - 23 weeks"	"02"	"2017"	"2017"	103
+	"Nevada"	"32"	"20 - 23 weeks"	"02"	"2018"	"2018"	102
+	"Nevada"	"32"	"20 - 23 weeks"	"02"	"2019"	"2019"	95
+	"Nevada"	"32"	"24 - 27 weeks"	"03"	"2015"	"2015"	33
+	"Nevada"	"32"	"24 - 27 weeks"	"03"	"2016"	"2016"	49
+	"Nevada"	"32"	"24 - 27 weeks"	"03"	"2017"	"2017"	31
+	"Nevada"	"32"	"24 - 27 weeks"	"03"	"2018"	"2018"	43
+	"Nevada"	"32"	"24 - 27 weeks"	"03"	"2019"	"2019"	33
+	"Nevada"	"32"	"28 weeks or more"	"04"	"2015"	"2015"	112
+	"Nevada"	"32"	"28 weeks or more"	"04"	"2016"	"2016"	123
+	"Nevada"	"32"	"28 weeks or more"	"04"	"2017"	"2017"	110
+	"Nevada"	"32"	"28 weeks or more"	"04"	"2018"	"2018"	106
+	"Nevada"	"32"	"28 weeks or more"	"04"	"2019"	"2019"	102
+	"Nevada"	"32"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Nevada"	"32"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Nevada"	"32"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Nevada"	"32"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Nevada"	"32"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Nevada"	"32"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Nevada"	"32"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Nevada"	"32"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Nevada"	"32"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Nevada"	"32"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"New Hampshire"	"33"	"20 - 23 weeks"	"02"	"2015"	"2015"	12
+	"New Hampshire"	"33"	"20 - 23 weeks"	"02"	"2016"	"2016"	19
+	"New Hampshire"	"33"	"20 - 23 weeks"	"02"	"2017"	"2017"	12
+	"New Hampshire"	"33"	"20 - 23 weeks"	"02"	"2018"	"2018"	23
+	"New Hampshire"	"33"	"20 - 23 weeks"	"02"	"2019"	"2019"	12
+	"New Hampshire"	"33"	"24 - 27 weeks"	"03"	"2015"	"2015"	Suppressed
+	"New Hampshire"	"33"	"24 - 27 weeks"	"03"	"2016"	"2016"	Suppressed
+	"New Hampshire"	"33"	"24 - 27 weeks"	"03"	"2017"	"2017"	10
+	"New Hampshire"	"33"	"24 - 27 weeks"	"03"	"2018"	"2018"	Suppressed
+	"New Hampshire"	"33"	"24 - 27 weeks"	"03"	"2019"	"2019"	Suppressed
+	"New Hampshire"	"33"	"28 weeks or more"	"04"	"2015"	"2015"	28
+	"New Hampshire"	"33"	"28 weeks or more"	"04"	"2016"	"2016"	44
+	"New Hampshire"	"33"	"28 weeks or more"	"04"	"2017"	"2017"	31
+	"New Hampshire"	"33"	"28 weeks or more"	"04"	"2018"	"2018"	27
+	"New Hampshire"	"33"	"28 weeks or more"	"04"	"2019"	"2019"	34
+	"New Hampshire"	"33"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"New Hampshire"	"33"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"New Hampshire"	"33"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"New Hampshire"	"33"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"New Hampshire"	"33"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"New Hampshire"	"33"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"New Hampshire"	"33"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"New Hampshire"	"33"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"New Hampshire"	"33"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"New Hampshire"	"33"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"New Jersey"	"34"	"20 - 23 weeks"	"02"	"2015"	"2015"	311
+	"New Jersey"	"34"	"20 - 23 weeks"	"02"	"2016"	"2016"	334
+	"New Jersey"	"34"	"20 - 23 weeks"	"02"	"2017"	"2017"	365
+	"New Jersey"	"34"	"20 - 23 weeks"	"02"	"2018"	"2018"	309
+	"New Jersey"	"34"	"20 - 23 weeks"	"02"	"2019"	"2019"	340
+	"New Jersey"	"34"	"24 - 27 weeks"	"03"	"2015"	"2015"	98
+	"New Jersey"	"34"	"24 - 27 weeks"	"03"	"2016"	"2016"	88
+	"New Jersey"	"34"	"24 - 27 weeks"	"03"	"2017"	"2017"	89
+	"New Jersey"	"34"	"24 - 27 weeks"	"03"	"2018"	"2018"	99
+	"New Jersey"	"34"	"24 - 27 weeks"	"03"	"2019"	"2019"	83
+	"New Jersey"	"34"	"28 weeks or more"	"04"	"2015"	"2015"	245
+	"New Jersey"	"34"	"28 weeks or more"	"04"	"2016"	"2016"	273
+	"New Jersey"	"34"	"28 weeks or more"	"04"	"2017"	"2017"	277
+	"New Jersey"	"34"	"28 weeks or more"	"04"	"2018"	"2018"	292
+	"New Jersey"	"34"	"28 weeks or more"	"04"	"2019"	"2019"	269
+	"New Jersey"	"34"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"New Jersey"	"34"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"New Jersey"	"34"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"New Jersey"	"34"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"New Jersey"	"34"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"New Jersey"	"34"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"New Jersey"	"34"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"New Jersey"	"34"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"New Jersey"	"34"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"New Jersey"	"34"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"New Mexico"	"35"	"20 - 23 weeks"	"02"	"2015"	"2015"	28
+	"New Mexico"	"35"	"20 - 23 weeks"	"02"	"2016"	"2016"	25
+	"New Mexico"	"35"	"20 - 23 weeks"	"02"	"2017"	"2017"	30
+	"New Mexico"	"35"	"20 - 23 weeks"	"02"	"2018"	"2018"	23
+	"New Mexico"	"35"	"20 - 23 weeks"	"02"	"2019"	"2019"	15
+	"New Mexico"	"35"	"24 - 27 weeks"	"03"	"2015"	"2015"	11
+	"New Mexico"	"35"	"24 - 27 weeks"	"03"	"2016"	"2016"	Suppressed
+	"New Mexico"	"35"	"24 - 27 weeks"	"03"	"2017"	"2017"	18
+	"New Mexico"	"35"	"24 - 27 weeks"	"03"	"2018"	"2018"	12
+	"New Mexico"	"35"	"24 - 27 weeks"	"03"	"2019"	"2019"	12
+	"New Mexico"	"35"	"28 weeks or more"	"04"	"2015"	"2015"	55
+	"New Mexico"	"35"	"28 weeks or more"	"04"	"2016"	"2016"	51
+	"New Mexico"	"35"	"28 weeks or more"	"04"	"2017"	"2017"	34
+	"New Mexico"	"35"	"28 weeks or more"	"04"	"2018"	"2018"	49
+	"New Mexico"	"35"	"28 weeks or more"	"04"	"2019"	"2019"	41
+	"New Mexico"	"35"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"New Mexico"	"35"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"New Mexico"	"35"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"New Mexico"	"35"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"New Mexico"	"35"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"New Mexico"	"35"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"New Mexico"	"35"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"New Mexico"	"35"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"New Mexico"	"35"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"New Mexico"	"35"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"New York"	"36"	"20 - 23 weeks"	"02"	"2015"	"2015"	687
+	"New York"	"36"	"20 - 23 weeks"	"02"	"2016"	"2016"	634
+	"New York"	"36"	"20 - 23 weeks"	"02"	"2017"	"2017"	584
+	"New York"	"36"	"20 - 23 weeks"	"02"	"2018"	"2018"	546
+	"New York"	"36"	"20 - 23 weeks"	"02"	"2019"	"2019"	573
+	"New York"	"36"	"24 - 27 weeks"	"03"	"2015"	"2015"	219
+	"New York"	"36"	"24 - 27 weeks"	"03"	"2016"	"2016"	198
+	"New York"	"36"	"24 - 27 weeks"	"03"	"2017"	"2017"	205
+	"New York"	"36"	"24 - 27 weeks"	"03"	"2018"	"2018"	226
+	"New York"	"36"	"24 - 27 weeks"	"03"	"2019"	"2019"	170
+	"New York"	"36"	"28 weeks or more"	"04"	"2015"	"2015"	643
+	"New York"	"36"	"28 weeks or more"	"04"	"2016"	"2016"	691
+	"New York"	"36"	"28 weeks or more"	"04"	"2017"	"2017"	643
+	"New York"	"36"	"28 weeks or more"	"04"	"2018"	"2018"	688
+	"New York"	"36"	"28 weeks or more"	"04"	"2019"	"2019"	584
+	"New York"	"36"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"New York"	"36"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"New York"	"36"	"Unknown"	"05"	"2017"	"2017"	21
+	"New York"	"36"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"New York"	"36"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"New York"	"36"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"New York"	"36"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"New York"	"36"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"New York"	"36"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"New York"	"36"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"North Carolina"	"37"	"20 - 23 weeks"	"02"	"2015"	"2015"	287
+	"North Carolina"	"37"	"20 - 23 weeks"	"02"	"2016"	"2016"	284
+	"North Carolina"	"37"	"20 - 23 weeks"	"02"	"2017"	"2017"	280
+	"North Carolina"	"37"	"20 - 23 weeks"	"02"	"2018"	"2018"	261
+	"North Carolina"	"37"	"20 - 23 weeks"	"02"	"2019"	"2019"	265
+	"North Carolina"	"37"	"24 - 27 weeks"	"03"	"2015"	"2015"	133
+	"North Carolina"	"37"	"24 - 27 weeks"	"03"	"2016"	"2016"	125
+	"North Carolina"	"37"	"24 - 27 weeks"	"03"	"2017"	"2017"	110
+	"North Carolina"	"37"	"24 - 27 weeks"	"03"	"2018"	"2018"	129
+	"North Carolina"	"37"	"24 - 27 weeks"	"03"	"2019"	"2019"	148
+	"North Carolina"	"37"	"28 weeks or more"	"04"	"2015"	"2015"	437
+	"North Carolina"	"37"	"28 weeks or more"	"04"	"2016"	"2016"	415
+	"North Carolina"	"37"	"28 weeks or more"	"04"	"2017"	"2017"	413
+	"North Carolina"	"37"	"28 weeks or more"	"04"	"2018"	"2018"	412
+	"North Carolina"	"37"	"28 weeks or more"	"04"	"2019"	"2019"	371
+	"North Carolina"	"37"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"North Carolina"	"37"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"North Carolina"	"37"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"North Carolina"	"37"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"North Carolina"	"37"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"North Carolina"	"37"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"North Carolina"	"37"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"North Carolina"	"37"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"North Carolina"	"37"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"North Carolina"	"37"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"North Dakota"	"38"	"20 - 23 weeks"	"02"	"2015"	"2015"	23
+	"North Dakota"	"38"	"20 - 23 weeks"	"02"	"2016"	"2016"	28
+	"North Dakota"	"38"	"20 - 23 weeks"	"02"	"2017"	"2017"	18
+	"North Dakota"	"38"	"20 - 23 weeks"	"02"	"2018"	"2018"	24
+	"North Dakota"	"38"	"20 - 23 weeks"	"02"	"2019"	"2019"	27
+	"North Dakota"	"38"	"24 - 27 weeks"	"03"	"2015"	"2015"	10
+	"North Dakota"	"38"	"24 - 27 weeks"	"03"	"2016"	"2016"	Suppressed
+	"North Dakota"	"38"	"24 - 27 weeks"	"03"	"2017"	"2017"	Suppressed
+	"North Dakota"	"38"	"24 - 27 weeks"	"03"	"2018"	"2018"	Suppressed
+	"North Dakota"	"38"	"24 - 27 weeks"	"03"	"2019"	"2019"	Suppressed
+	"North Dakota"	"38"	"28 weeks or more"	"04"	"2015"	"2015"	35
+	"North Dakota"	"38"	"28 weeks or more"	"04"	"2016"	"2016"	35
+	"North Dakota"	"38"	"28 weeks or more"	"04"	"2017"	"2017"	29
+	"North Dakota"	"38"	"28 weeks or more"	"04"	"2018"	"2018"	29
+	"North Dakota"	"38"	"28 weeks or more"	"04"	"2019"	"2019"	31
+	"North Dakota"	"38"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"North Dakota"	"38"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"North Dakota"	"38"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"North Dakota"	"38"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"North Dakota"	"38"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"North Dakota"	"38"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"North Dakota"	"38"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"North Dakota"	"38"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"North Dakota"	"38"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"North Dakota"	"38"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Ohio"	"39"	"20 - 23 weeks"	"02"	"2015"	"2015"	301
+	"Ohio"	"39"	"20 - 23 weeks"	"02"	"2016"	"2016"	353
+	"Ohio"	"39"	"20 - 23 weeks"	"02"	"2017"	"2017"	296
+	"Ohio"	"39"	"20 - 23 weeks"	"02"	"2018"	"2018"	291
+	"Ohio"	"39"	"20 - 23 weeks"	"02"	"2019"	"2019"	306
+	"Ohio"	"39"	"24 - 27 weeks"	"03"	"2015"	"2015"	148
+	"Ohio"	"39"	"24 - 27 weeks"	"03"	"2016"	"2016"	136
+	"Ohio"	"39"	"24 - 27 weeks"	"03"	"2017"	"2017"	155
+	"Ohio"	"39"	"24 - 27 weeks"	"03"	"2018"	"2018"	156
+	"Ohio"	"39"	"24 - 27 weeks"	"03"	"2019"	"2019"	130
+	"Ohio"	"39"	"28 weeks or more"	"04"	"2015"	"2015"	444
+	"Ohio"	"39"	"28 weeks or more"	"04"	"2016"	"2016"	421
+	"Ohio"	"39"	"28 weeks or more"	"04"	"2017"	"2017"	413
+	"Ohio"	"39"	"28 weeks or more"	"04"	"2018"	"2018"	444
+	"Ohio"	"39"	"28 weeks or more"	"04"	"2019"	"2019"	412
+	"Ohio"	"39"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Ohio"	"39"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Ohio"	"39"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Ohio"	"39"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Ohio"	"39"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Ohio"	"39"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Ohio"	"39"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Ohio"	"39"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Ohio"	"39"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Ohio"	"39"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Oklahoma"	"40"	"20 - 23 weeks"	"02"	"2015"	"2015"	93
+	"Oklahoma"	"40"	"20 - 23 weeks"	"02"	"2016"	"2016"	100
+	"Oklahoma"	"40"	"20 - 23 weeks"	"02"	"2017"	"2017"	92
+	"Oklahoma"	"40"	"20 - 23 weeks"	"02"	"2018"	"2018"	90
+	"Oklahoma"	"40"	"20 - 23 weeks"	"02"	"2019"	"2019"	95
+	"Oklahoma"	"40"	"24 - 27 weeks"	"03"	"2015"	"2015"	49
+	"Oklahoma"	"40"	"24 - 27 weeks"	"03"	"2016"	"2016"	51
+	"Oklahoma"	"40"	"24 - 27 weeks"	"03"	"2017"	"2017"	44
+	"Oklahoma"	"40"	"24 - 27 weeks"	"03"	"2018"	"2018"	50
+	"Oklahoma"	"40"	"24 - 27 weeks"	"03"	"2019"	"2019"	40
+	"Oklahoma"	"40"	"28 weeks or more"	"04"	"2015"	"2015"	138
+	"Oklahoma"	"40"	"28 weeks or more"	"04"	"2016"	"2016"	180
+	"Oklahoma"	"40"	"28 weeks or more"	"04"	"2017"	"2017"	124
+	"Oklahoma"	"40"	"28 weeks or more"	"04"	"2018"	"2018"	145
+	"Oklahoma"	"40"	"28 weeks or more"	"04"	"2019"	"2019"	145
+	"Oklahoma"	"40"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Oklahoma"	"40"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Oklahoma"	"40"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Oklahoma"	"40"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Oklahoma"	"40"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Oklahoma"	"40"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Oklahoma"	"40"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Oklahoma"	"40"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Oklahoma"	"40"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Oklahoma"	"40"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Oregon"	"41"	"20 - 23 weeks"	"02"	"2015"	"2015"	68
+	"Oregon"	"41"	"20 - 23 weeks"	"02"	"2016"	"2016"	69
+	"Oregon"	"41"	"20 - 23 weeks"	"02"	"2017"	"2017"	66
+	"Oregon"	"41"	"20 - 23 weeks"	"02"	"2018"	"2018"	71
+	"Oregon"	"41"	"20 - 23 weeks"	"02"	"2019"	"2019"	56
+	"Oregon"	"41"	"24 - 27 weeks"	"03"	"2015"	"2015"	30
+	"Oregon"	"41"	"24 - 27 weeks"	"03"	"2016"	"2016"	32
+	"Oregon"	"41"	"24 - 27 weeks"	"03"	"2017"	"2017"	27
+	"Oregon"	"41"	"24 - 27 weeks"	"03"	"2018"	"2018"	25
+	"Oregon"	"41"	"24 - 27 weeks"	"03"	"2019"	"2019"	36
+	"Oregon"	"41"	"28 weeks or more"	"04"	"2015"	"2015"	110
+	"Oregon"	"41"	"28 weeks or more"	"04"	"2016"	"2016"	108
+	"Oregon"	"41"	"28 weeks or more"	"04"	"2017"	"2017"	121
+	"Oregon"	"41"	"28 weeks or more"	"04"	"2018"	"2018"	104
+	"Oregon"	"41"	"28 weeks or more"	"04"	"2019"	"2019"	94
+	"Oregon"	"41"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Oregon"	"41"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Oregon"	"41"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Oregon"	"41"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Oregon"	"41"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Oregon"	"41"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Oregon"	"41"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Oregon"	"41"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Oregon"	"41"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Oregon"	"41"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Pennsylvania"	"42"	"20 - 23 weeks"	"02"	"2015"	"2015"	304
+	"Pennsylvania"	"42"	"20 - 23 weeks"	"02"	"2016"	"2016"	308
+	"Pennsylvania"	"42"	"20 - 23 weeks"	"02"	"2017"	"2017"	279
+	"Pennsylvania"	"42"	"20 - 23 weeks"	"02"	"2018"	"2018"	297
+	"Pennsylvania"	"42"	"20 - 23 weeks"	"02"	"2019"	"2019"	283
+	"Pennsylvania"	"42"	"24 - 27 weeks"	"03"	"2015"	"2015"	116
+	"Pennsylvania"	"42"	"24 - 27 weeks"	"03"	"2016"	"2016"	126
+	"Pennsylvania"	"42"	"24 - 27 weeks"	"03"	"2017"	"2017"	118
+	"Pennsylvania"	"42"	"24 - 27 weeks"	"03"	"2018"	"2018"	138
+	"Pennsylvania"	"42"	"24 - 27 weeks"	"03"	"2019"	"2019"	123
+	"Pennsylvania"	"42"	"28 weeks or more"	"04"	"2015"	"2015"	453
+	"Pennsylvania"	"42"	"28 weeks or more"	"04"	"2016"	"2016"	422
+	"Pennsylvania"	"42"	"28 weeks or more"	"04"	"2017"	"2017"	442
+	"Pennsylvania"	"42"	"28 weeks or more"	"04"	"2018"	"2018"	386
+	"Pennsylvania"	"42"	"28 weeks or more"	"04"	"2019"	"2019"	394
+	"Pennsylvania"	"42"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Pennsylvania"	"42"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Pennsylvania"	"42"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Pennsylvania"	"42"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Pennsylvania"	"42"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Pennsylvania"	"42"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Pennsylvania"	"42"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Pennsylvania"	"42"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Pennsylvania"	"42"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Pennsylvania"	"42"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Rhode Island"	"44"	"20 - 23 weeks"	"02"	"2015"	"2015"	20
+	"Rhode Island"	"44"	"20 - 23 weeks"	"02"	"2016"	"2016"	21
+	"Rhode Island"	"44"	"20 - 23 weeks"	"02"	"2017"	"2017"	19
+	"Rhode Island"	"44"	"20 - 23 weeks"	"02"	"2018"	"2018"	24
+	"Rhode Island"	"44"	"20 - 23 weeks"	"02"	"2019"	"2019"	15
+	"Rhode Island"	"44"	"24 - 27 weeks"	"03"	"2015"	"2015"	Suppressed
+	"Rhode Island"	"44"	"24 - 27 weeks"	"03"	"2016"	"2016"	10
+	"Rhode Island"	"44"	"24 - 27 weeks"	"03"	"2017"	"2017"	Suppressed
+	"Rhode Island"	"44"	"24 - 27 weeks"	"03"	"2018"	"2018"	Suppressed
+	"Rhode Island"	"44"	"24 - 27 weeks"	"03"	"2019"	"2019"	Suppressed
+	"Rhode Island"	"44"	"28 weeks or more"	"04"	"2015"	"2015"	25
+	"Rhode Island"	"44"	"28 weeks or more"	"04"	"2016"	"2016"	35
+	"Rhode Island"	"44"	"28 weeks or more"	"04"	"2017"	"2017"	29
+	"Rhode Island"	"44"	"28 weeks or more"	"04"	"2018"	"2018"	28
+	"Rhode Island"	"44"	"28 weeks or more"	"04"	"2019"	"2019"	30
+	"Rhode Island"	"44"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Rhode Island"	"44"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Rhode Island"	"44"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Rhode Island"	"44"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Rhode Island"	"44"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Rhode Island"	"44"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Rhode Island"	"44"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Rhode Island"	"44"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Rhode Island"	"44"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Rhode Island"	"44"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"South Carolina"	"45"	"20 - 23 weeks"	"02"	"2015"	"2015"	179
+	"South Carolina"	"45"	"20 - 23 weeks"	"02"	"2016"	"2016"	168
+	"South Carolina"	"45"	"20 - 23 weeks"	"02"	"2017"	"2017"	100
+	"South Carolina"	"45"	"20 - 23 weeks"	"02"	"2018"	"2018"	80
+	"South Carolina"	"45"	"20 - 23 weeks"	"02"	"2019"	"2019"	98
+	"South Carolina"	"45"	"24 - 27 weeks"	"03"	"2015"	"2015"	58
+	"South Carolina"	"45"	"24 - 27 weeks"	"03"	"2016"	"2016"	71
+	"South Carolina"	"45"	"24 - 27 weeks"	"03"	"2017"	"2017"	60
+	"South Carolina"	"45"	"24 - 27 weeks"	"03"	"2018"	"2018"	53
+	"South Carolina"	"45"	"24 - 27 weeks"	"03"	"2019"	"2019"	46
+	"South Carolina"	"45"	"28 weeks or more"	"04"	"2015"	"2015"	210
+	"South Carolina"	"45"	"28 weeks or more"	"04"	"2016"	"2016"	209
+	"South Carolina"	"45"	"28 weeks or more"	"04"	"2017"	"2017"	228
+	"South Carolina"	"45"	"28 weeks or more"	"04"	"2018"	"2018"	205
+	"South Carolina"	"45"	"28 weeks or more"	"04"	"2019"	"2019"	201
+	"South Carolina"	"45"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"South Carolina"	"45"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"South Carolina"	"45"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"South Carolina"	"45"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"South Carolina"	"45"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"South Carolina"	"45"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"South Carolina"	"45"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"South Carolina"	"45"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"South Carolina"	"45"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"South Carolina"	"45"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"South Dakota"	"46"	"20 - 23 weeks"	"02"	"2015"	"2015"	30
+	"South Dakota"	"46"	"20 - 23 weeks"	"02"	"2016"	"2016"	21
+	"South Dakota"	"46"	"20 - 23 weeks"	"02"	"2017"	"2017"	17
+	"South Dakota"	"46"	"20 - 23 weeks"	"02"	"2018"	"2018"	19
+	"South Dakota"	"46"	"20 - 23 weeks"	"02"	"2019"	"2019"	27
+	"South Dakota"	"46"	"24 - 27 weeks"	"03"	"2015"	"2015"	10
+	"South Dakota"	"46"	"24 - 27 weeks"	"03"	"2016"	"2016"	22
+	"South Dakota"	"46"	"24 - 27 weeks"	"03"	"2017"	"2017"	12
+	"South Dakota"	"46"	"24 - 27 weeks"	"03"	"2018"	"2018"	Suppressed
+	"South Dakota"	"46"	"24 - 27 weeks"	"03"	"2019"	"2019"	13
+	"South Dakota"	"46"	"28 weeks or more"	"04"	"2015"	"2015"	38
+	"South Dakota"	"46"	"28 weeks or more"	"04"	"2016"	"2016"	44
+	"South Dakota"	"46"	"28 weeks or more"	"04"	"2017"	"2017"	42
+	"South Dakota"	"46"	"28 weeks or more"	"04"	"2018"	"2018"	26
+	"South Dakota"	"46"	"28 weeks or more"	"04"	"2019"	"2019"	29
+	"South Dakota"	"46"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"South Dakota"	"46"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"South Dakota"	"46"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"South Dakota"	"46"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"South Dakota"	"46"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"South Dakota"	"46"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"South Dakota"	"46"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"South Dakota"	"46"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"South Dakota"	"46"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"South Dakota"	"46"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Tennessee"	"47"	"20 - 23 weeks"	"02"	"2015"	"2015"	215
+	"Tennessee"	"47"	"20 - 23 weeks"	"02"	"2016"	"2016"	219
+	"Tennessee"	"47"	"20 - 23 weeks"	"02"	"2017"	"2017"	218
+	"Tennessee"	"47"	"20 - 23 weeks"	"02"	"2018"	"2018"	208
+	"Tennessee"	"47"	"20 - 23 weeks"	"02"	"2019"	"2019"	172
+	"Tennessee"	"47"	"24 - 27 weeks"	"03"	"2015"	"2015"	104
+	"Tennessee"	"47"	"24 - 27 weeks"	"03"	"2016"	"2016"	72
+	"Tennessee"	"47"	"24 - 27 weeks"	"03"	"2017"	"2017"	74
+	"Tennessee"	"47"	"24 - 27 weeks"	"03"	"2018"	"2018"	97
+	"Tennessee"	"47"	"24 - 27 weeks"	"03"	"2019"	"2019"	86
+	"Tennessee"	"47"	"28 weeks or more"	"04"	"2015"	"2015"	272
+	"Tennessee"	"47"	"28 weeks or more"	"04"	"2016"	"2016"	298
+	"Tennessee"	"47"	"28 weeks or more"	"04"	"2017"	"2017"	259
+	"Tennessee"	"47"	"28 weeks or more"	"04"	"2018"	"2018"	274
+	"Tennessee"	"47"	"28 weeks or more"	"04"	"2019"	"2019"	238
+	"Tennessee"	"47"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Tennessee"	"47"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Tennessee"	"47"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Tennessee"	"47"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Tennessee"	"47"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Tennessee"	"47"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Tennessee"	"47"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Tennessee"	"47"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Tennessee"	"47"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Tennessee"	"47"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Texas"	"48"	"20 - 23 weeks"	"02"	"2015"	"2015"	689
+	"Texas"	"48"	"20 - 23 weeks"	"02"	"2016"	"2016"	670
+	"Texas"	"48"	"20 - 23 weeks"	"02"	"2017"	"2017"	557
+	"Texas"	"48"	"20 - 23 weeks"	"02"	"2018"	"2018"	601
+	"Texas"	"48"	"20 - 23 weeks"	"02"	"2019"	"2019"	520
+	"Texas"	"48"	"24 - 27 weeks"	"03"	"2015"	"2015"	260
+	"Texas"	"48"	"24 - 27 weeks"	"03"	"2016"	"2016"	270
+	"Texas"	"48"	"24 - 27 weeks"	"03"	"2017"	"2017"	277
+	"Texas"	"48"	"24 - 27 weeks"	"03"	"2018"	"2018"	275
+	"Texas"	"48"	"24 - 27 weeks"	"03"	"2019"	"2019"	254
+	"Texas"	"48"	"28 weeks or more"	"04"	"2015"	"2015"	1063
+	"Texas"	"48"	"28 weeks or more"	"04"	"2016"	"2016"	943
+	"Texas"	"48"	"28 weeks or more"	"04"	"2017"	"2017"	915
+	"Texas"	"48"	"28 weeks or more"	"04"	"2018"	"2018"	861
+	"Texas"	"48"	"28 weeks or more"	"04"	"2019"	"2019"	724
+	"Texas"	"48"	"Unknown"	"05"	"2015"	"2015"	12
+	"Texas"	"48"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Texas"	"48"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Texas"	"48"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Texas"	"48"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Texas"	"48"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Texas"	"48"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Texas"	"48"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Texas"	"48"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Texas"	"48"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Utah"	"49"	"20 - 23 weeks"	"02"	"2015"	"2015"	113
+	"Utah"	"49"	"20 - 23 weeks"	"02"	"2016"	"2016"	107
+	"Utah"	"49"	"20 - 23 weeks"	"02"	"2017"	"2017"	91
+	"Utah"	"49"	"20 - 23 weeks"	"02"	"2018"	"2018"	110
+	"Utah"	"49"	"20 - 23 weeks"	"02"	"2019"	"2019"	87
+	"Utah"	"49"	"24 - 27 weeks"	"03"	"2015"	"2015"	38
+	"Utah"	"49"	"24 - 27 weeks"	"03"	"2016"	"2016"	42
+	"Utah"	"49"	"24 - 27 weeks"	"03"	"2017"	"2017"	44
+	"Utah"	"49"	"24 - 27 weeks"	"03"	"2018"	"2018"	48
+	"Utah"	"49"	"24 - 27 weeks"	"03"	"2019"	"2019"	34
+	"Utah"	"49"	"28 weeks or more"	"04"	"2015"	"2015"	130
+	"Utah"	"49"	"28 weeks or more"	"04"	"2016"	"2016"	152
+	"Utah"	"49"	"28 weeks or more"	"04"	"2017"	"2017"	118
+	"Utah"	"49"	"28 weeks or more"	"04"	"2018"	"2018"	159
+	"Utah"	"49"	"28 weeks or more"	"04"	"2019"	"2019"	125
+	"Utah"	"49"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Utah"	"49"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Utah"	"49"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Utah"	"49"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Utah"	"49"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Utah"	"49"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Utah"	"49"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Utah"	"49"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Utah"	"49"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Utah"	"49"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Vermont"	"50"	"20 - 23 weeks"	"02"	"2015"	"2015"	Suppressed
+	"Vermont"	"50"	"20 - 23 weeks"	"02"	"2016"	"2016"	14
+	"Vermont"	"50"	"20 - 23 weeks"	"02"	"2017"	"2017"	Suppressed
+	"Vermont"	"50"	"20 - 23 weeks"	"02"	"2018"	"2018"	Suppressed
+	"Vermont"	"50"	"20 - 23 weeks"	"02"	"2019"	"2019"	Suppressed
+	"Vermont"	"50"	"24 - 27 weeks"	"03"	"2015"	"2015"	Suppressed
+	"Vermont"	"50"	"24 - 27 weeks"	"03"	"2016"	"2016"	Suppressed
+	"Vermont"	"50"	"24 - 27 weeks"	"03"	"2017"	"2017"	Suppressed
+	"Vermont"	"50"	"24 - 27 weeks"	"03"	"2018"	"2018"	Suppressed
+	"Vermont"	"50"	"24 - 27 weeks"	"03"	"2019"	"2019"	Suppressed
+	"Vermont"	"50"	"28 weeks or more"	"04"	"2015"	"2015"	16
+	"Vermont"	"50"	"28 weeks or more"	"04"	"2016"	"2016"	10
+	"Vermont"	"50"	"28 weeks or more"	"04"	"2017"	"2017"	15
+	"Vermont"	"50"	"28 weeks or more"	"04"	"2018"	"2018"	11
+	"Vermont"	"50"	"28 weeks or more"	"04"	"2019"	"2019"	16
+	"Vermont"	"50"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Vermont"	"50"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Vermont"	"50"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Vermont"	"50"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Vermont"	"50"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Vermont"	"50"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Vermont"	"50"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Vermont"	"50"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Vermont"	"50"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Vermont"	"50"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Virginia"	"51"	"20 - 23 weeks"	"02"	"2015"	"2015"	216
+	"Virginia"	"51"	"20 - 23 weeks"	"02"	"2016"	"2016"	223
+	"Virginia"	"51"	"20 - 23 weeks"	"02"	"2017"	"2017"	189
+	"Virginia"	"51"	"20 - 23 weeks"	"02"	"2018"	"2018"	211
+	"Virginia"	"51"	"20 - 23 weeks"	"02"	"2019"	"2019"	172
+	"Virginia"	"51"	"24 - 27 weeks"	"03"	"2015"	"2015"	79
+	"Virginia"	"51"	"24 - 27 weeks"	"03"	"2016"	"2016"	94
+	"Virginia"	"51"	"24 - 27 weeks"	"03"	"2017"	"2017"	81
+	"Virginia"	"51"	"24 - 27 weeks"	"03"	"2018"	"2018"	85
+	"Virginia"	"51"	"24 - 27 weeks"	"03"	"2019"	"2019"	77
+	"Virginia"	"51"	"28 weeks or more"	"04"	"2015"	"2015"	256
+	"Virginia"	"51"	"28 weeks or more"	"04"	"2016"	"2016"	274
+	"Virginia"	"51"	"28 weeks or more"	"04"	"2017"	"2017"	217
+	"Virginia"	"51"	"28 weeks or more"	"04"	"2018"	"2018"	270
+	"Virginia"	"51"	"28 weeks or more"	"04"	"2019"	"2019"	233
+	"Virginia"	"51"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Virginia"	"51"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Virginia"	"51"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Virginia"	"51"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Virginia"	"51"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Virginia"	"51"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Virginia"	"51"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Virginia"	"51"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Virginia"	"51"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Virginia"	"51"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Washington"	"53"	"20 - 23 weeks"	"02"	"2015"	"2015"	215
+	"Washington"	"53"	"20 - 23 weeks"	"02"	"2016"	"2016"	200
+	"Washington"	"53"	"20 - 23 weeks"	"02"	"2017"	"2017"	217
+	"Washington"	"53"	"20 - 23 weeks"	"02"	"2018"	"2018"	211
+	"Washington"	"53"	"20 - 23 weeks"	"02"	"2019"	"2019"	202
+	"Washington"	"53"	"24 - 27 weeks"	"03"	"2015"	"2015"	65
+	"Washington"	"53"	"24 - 27 weeks"	"03"	"2016"	"2016"	75
+	"Washington"	"53"	"24 - 27 weeks"	"03"	"2017"	"2017"	65
+	"Washington"	"53"	"24 - 27 weeks"	"03"	"2018"	"2018"	83
+	"Washington"	"53"	"24 - 27 weeks"	"03"	"2019"	"2019"	69
+	"Washington"	"53"	"28 weeks or more"	"04"	"2015"	"2015"	196
+	"Washington"	"53"	"28 weeks or more"	"04"	"2016"	"2016"	211
+	"Washington"	"53"	"28 weeks or more"	"04"	"2017"	"2017"	218
+	"Washington"	"53"	"28 weeks or more"	"04"	"2018"	"2018"	189
+	"Washington"	"53"	"28 weeks or more"	"04"	"2019"	"2019"	206
+	"Washington"	"53"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Washington"	"53"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Washington"	"53"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Washington"	"53"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Washington"	"53"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Washington"	"53"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Washington"	"53"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Washington"	"53"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Washington"	"53"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Washington"	"53"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"West Virginia"	"54"	"20 - 23 weeks"	"02"	"2015"	"2015"	32
+	"West Virginia"	"54"	"20 - 23 weeks"	"02"	"2016"	"2016"	34
+	"West Virginia"	"54"	"20 - 23 weeks"	"02"	"2017"	"2017"	22
+	"West Virginia"	"54"	"20 - 23 weeks"	"02"	"2018"	"2018"	28
+	"West Virginia"	"54"	"20 - 23 weeks"	"02"	"2019"	"2019"	26
+	"West Virginia"	"54"	"24 - 27 weeks"	"03"	"2015"	"2015"	12
+	"West Virginia"	"54"	"24 - 27 weeks"	"03"	"2016"	"2016"	14
+	"West Virginia"	"54"	"24 - 27 weeks"	"03"	"2017"	"2017"	14
+	"West Virginia"	"54"	"24 - 27 weeks"	"03"	"2018"	"2018"	15
+	"West Virginia"	"54"	"24 - 27 weeks"	"03"	"2019"	"2019"	10
+	"West Virginia"	"54"	"28 weeks or more"	"04"	"2015"	"2015"	57
+	"West Virginia"	"54"	"28 weeks or more"	"04"	"2016"	"2016"	60
+	"West Virginia"	"54"	"28 weeks or more"	"04"	"2017"	"2017"	73
+	"West Virginia"	"54"	"28 weeks or more"	"04"	"2018"	"2018"	69
+	"West Virginia"	"54"	"28 weeks or more"	"04"	"2019"	"2019"	43
+	"West Virginia"	"54"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"West Virginia"	"54"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"West Virginia"	"54"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"West Virginia"	"54"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"West Virginia"	"54"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"West Virginia"	"54"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"West Virginia"	"54"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"West Virginia"	"54"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"West Virginia"	"54"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"West Virginia"	"54"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Wisconsin"	"55"	"20 - 23 weeks"	"02"	"2015"	"2015"	134
+	"Wisconsin"	"55"	"20 - 23 weeks"	"02"	"2016"	"2016"	124
+	"Wisconsin"	"55"	"20 - 23 weeks"	"02"	"2017"	"2017"	104
+	"Wisconsin"	"55"	"20 - 23 weeks"	"02"	"2018"	"2018"	113
+	"Wisconsin"	"55"	"20 - 23 weeks"	"02"	"2019"	"2019"	124
+	"Wisconsin"	"55"	"24 - 27 weeks"	"03"	"2015"	"2015"	49
+	"Wisconsin"	"55"	"24 - 27 weeks"	"03"	"2016"	"2016"	51
+	"Wisconsin"	"55"	"24 - 27 weeks"	"03"	"2017"	"2017"	48
+	"Wisconsin"	"55"	"24 - 27 weeks"	"03"	"2018"	"2018"	52
+	"Wisconsin"	"55"	"24 - 27 weeks"	"03"	"2019"	"2019"	38
+	"Wisconsin"	"55"	"28 weeks or more"	"04"	"2015"	"2015"	157
+	"Wisconsin"	"55"	"28 weeks or more"	"04"	"2016"	"2016"	155
+	"Wisconsin"	"55"	"28 weeks or more"	"04"	"2017"	"2017"	153
+	"Wisconsin"	"55"	"28 weeks or more"	"04"	"2018"	"2018"	164
+	"Wisconsin"	"55"	"28 weeks or more"	"04"	"2019"	"2019"	179
+	"Wisconsin"	"55"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Wisconsin"	"55"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Wisconsin"	"55"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Wisconsin"	"55"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Wisconsin"	"55"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Wisconsin"	"55"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Wisconsin"	"55"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Wisconsin"	"55"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Wisconsin"	"55"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Wisconsin"	"55"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+	"Wyoming"	"56"	"20 - 23 weeks"	"02"	"2015"	"2015"	14
+	"Wyoming"	"56"	"20 - 23 weeks"	"02"	"2016"	"2016"	20
+	"Wyoming"	"56"	"20 - 23 weeks"	"02"	"2017"	"2017"	18
+	"Wyoming"	"56"	"20 - 23 weeks"	"02"	"2018"	"2018"	20
+	"Wyoming"	"56"	"20 - 23 weeks"	"02"	"2019"	"2019"	13
+	"Wyoming"	"56"	"24 - 27 weeks"	"03"	"2015"	"2015"	Suppressed
+	"Wyoming"	"56"	"24 - 27 weeks"	"03"	"2016"	"2016"	Suppressed
+	"Wyoming"	"56"	"24 - 27 weeks"	"03"	"2017"	"2017"	Suppressed
+	"Wyoming"	"56"	"24 - 27 weeks"	"03"	"2018"	"2018"	Suppressed
+	"Wyoming"	"56"	"24 - 27 weeks"	"03"	"2019"	"2019"	Suppressed
+	"Wyoming"	"56"	"28 weeks or more"	"04"	"2015"	"2015"	22
+	"Wyoming"	"56"	"28 weeks or more"	"04"	"2016"	"2016"	12
+	"Wyoming"	"56"	"28 weeks or more"	"04"	"2017"	"2017"	16
+	"Wyoming"	"56"	"28 weeks or more"	"04"	"2018"	"2018"	17
+	"Wyoming"	"56"	"28 weeks or more"	"04"	"2019"	"2019"	23
+	"Wyoming"	"56"	"Unknown"	"05"	"2015"	"2015"	Suppressed
+	"Wyoming"	"56"	"Unknown"	"05"	"2016"	"2016"	Suppressed
+	"Wyoming"	"56"	"Unknown"	"05"	"2017"	"2017"	Suppressed
+	"Wyoming"	"56"	"Unknown"	"05"	"2018"	"2018"	Suppressed
+	"Wyoming"	"56"	"Unknown"	"05"	"2019"	"2019"	Suppressed
+	"Wyoming"	"56"	"Not Available"	"110"	"2015"	"2015"	Suppressed
+	"Wyoming"	"56"	"Not Available"	"110"	"2016"	"2016"	Suppressed
+	"Wyoming"	"56"	"Not Available"	"110"	"2017"	"2017"	Suppressed
+	"Wyoming"	"56"	"Not Available"	"110"	"2018"	"2018"	Suppressed
+	"Wyoming"	"56"	"Not Available"	"110"	"2019"	"2019"	Suppressed
+"---"
+"Dataset: Fetal Deaths, 2014-2019 expanded"
+"Query Parameters:"
+"Year: 2015; 2016; 2017; 2018; 2019"
+"Group By: Standard Residence States; OE Gestational Age Recode 4; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/fetal-deaths-expanded.html for more information."
+"---"
+"Query Date: May 14, 2022 6:29:15 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Fetal Deaths on CDC WONDER Online Database. Data are from the Fetal Death Records 2014-2019, as compiled from data"
+"provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/fetal-deaths-expanded-current.html on May 14, 2022 6:29:15 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of fetal deaths and percent of total values when the death value represents 0-9 sub-national"
+"events. This is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/fetal-deaths-expanded.html#Assurance of Confidentiality."
+"2. For some fields the data are recoded to ""Not Reported"" for specific states and years. The records are recoded because fetal"
+"deaths to mothers residing in a reporting area continued to use the 1989 U.S. Standard Report of Fetal Death, or fetal deaths to"
+"mothers residing in a reporting area that used the 2003 U.S. Standard Report of Fetal Death had more than 50% of fetal deaths"
+"assigned to unspecified cause (P95) in the specified year, or the state simply did not report item for some years. For more"
+"details see the user guide, which can be found at https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm, for the respective"
+"data year. To learn how to run query which shows exactly which states are not reporting for specific years see help document."
+"More information: http://wonder.cdc.gov/wonder/help/fetal-deaths-expanded.html#About-Not-Reported-Data."

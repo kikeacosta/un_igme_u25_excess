@@ -1,0 +1,59 @@
+"Notes"	"Year"	"Year Code"	"OE Gestational Age Recode 4"	"OE Gestational Age Recode 4 Code"	Fetal Deaths
+	"2015"	"2015"	"20 - 23 weeks"	"02"	8884
+	"2015"	"2015"	"24 - 27 weeks"	"03"	3467
+	"2015"	"2015"	"28 weeks or more"	"04"	11317
+	"2015"	"2015"	"Unknown"	"05"	108
+	"2015"	"2015"	"Not Available"	"110"	Suppressed
+	"2016"	"2016"	"20 - 23 weeks"	"02"	8890
+	"2016"	"2016"	"24 - 27 weeks"	"03"	3532
+	"2016"	"2016"	"28 weeks or more"	"04"	11336
+	"2016"	"2016"	"Unknown"	"05"	122
+	"2016"	"2016"	"Not Available"	"110"	Suppressed
+	"2017"	"2017"	"20 - 23 weeks"	"02"	8330
+	"2017"	"2017"	"24 - 27 weeks"	"03"	3462
+	"2017"	"2017"	"28 weeks or more"	"04"	10903
+	"2017"	"2017"	"Unknown"	"05"	132
+	"2017"	"2017"	"Not Available"	"110"	Suppressed
+	"2018"	"2018"	"20 - 23 weeks"	"02"	8297
+	"2018"	"2018"	"24 - 27 weeks"	"03"	3485
+	"2018"	"2018"	"28 weeks or more"	"04"	10559
+	"2018"	"2018"	"Unknown"	"05"	118
+	"2018"	"2018"	"Not Available"	"110"	Suppressed
+	"2019"	"2019"	"20 - 23 weeks"	"02"	7892
+	"2019"	"2019"	"24 - 27 weeks"	"03"	3267
+	"2019"	"2019"	"28 weeks or more"	"04"	10209
+	"2019"	"2019"	"Unknown"	"05"	110
+	"2019"	"2019"	"Not Available"	"110"	Suppressed
+"---"
+"Dataset: Fetal Deaths, 2014-2019 expanded"
+"Query Parameters:"
+"Year: 2015; 2016; 2017; 2018; 2019"
+"Group By: Year; OE Gestational Age Recode 4"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/fetal-deaths-expanded.html for more information."
+"---"
+"Query Date: May 14, 2022 6:33:42 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Fetal Deaths on CDC WONDER Online Database. Data are from the Fetal Death Records 2014-2019, as compiled from data"
+"provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/fetal-deaths-expanded-current.html on May 14, 2022 6:33:42 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. 'Suppressed' appears instead of fetal deaths and percent of total values when the death value represents 0-9 sub-national"
+"events. This is because the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/fetal-deaths-expanded.html#Assurance of Confidentiality."
+"2. For some fields the data are recoded to ""Not Reported"" for specific states and years. The records are recoded because fetal"
+"deaths to mothers residing in a reporting area continued to use the 1989 U.S. Standard Report of Fetal Death, or fetal deaths to"
+"mothers residing in a reporting area that used the 2003 U.S. Standard Report of Fetal Death had more than 50% of fetal deaths"
+"assigned to unspecified cause (P95) in the specified year, or the state simply did not report item for some years. For more"
+"details see the user guide, which can be found at https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm, for the respective"
+"data year. To learn how to run query which shows exactly which states are not reporting for specific years see help document."
+"More information: http://wonder.cdc.gov/wonder/help/fetal-deaths-expanded.html#About-Not-Reported-Data."

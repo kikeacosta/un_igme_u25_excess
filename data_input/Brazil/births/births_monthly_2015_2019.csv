@@ -1,0 +1,29 @@
+ Nascidos vivos - Brasil
+Nascim p/resid.mãe por Mês do nascimento e Ano do nascimento
+Período:2015-2019
+"Mês do nascimento";"2015";"2016";"2017";"2018";"2019";"Total"
+"Janeiro";253833;246388;226414;248735;246048;1221418
+"Fevereiro";239707;241133;223515;230349;232779;1167483
+"Março";277540;267249;266965;264342;257871;1333967
+"Abril";263592;256752;252941;262426;250164;1285875
+"Maio";269032;262413;269777;268724;257068;1327014
+"Junho";252239;246322;254808;245608;236360;1235337
+"Julho";252396;241194;249008;246705;240490;1229793
+"Agosto";244966;232083;244608;243961;233817;1199435
+"Setembro";250849;226505;237644;237043;233289;1185330
+"Outubro";239945;217018;233926;237490;225172;1153551
+"Novembro";230672;204074;229578;228568;214454;1107346
+"Dezembro";242897;216669;234351;230981;221634;1146532
+"Total";3017668;2857800;2923535;2944932;2849146;14593081
+ Fonte: MS/SVS/DASIS - Sistema de Informações sobre Nascidos Vivos - SINASC
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011".
+ 
+ * A categorização da "Adequação quantitativa de pré-natal" mostrada na variável "Adeq quant pré-natal" considera o início do
+ pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no
+ arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).
+ Maiores informações no documento "Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi
+ 

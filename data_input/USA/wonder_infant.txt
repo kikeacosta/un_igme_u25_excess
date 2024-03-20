@@ -1,0 +1,52 @@
+"Notes"	"Year"	"Year Code"	"Infant Age Groups"	"Infant Age Groups Code"	Deaths	Population	Crude Rate
+	"2015"	"2015"	"< 1 day"	"1d"	9479	3978497	2.4
+	"2015"	"2015"	"1-6 days"	"1-6d"	3088	3978497	0.8
+	"2015"	"2015"	"7-27 days"	"7-27d"	3085	3978497	0.8
+	"2015"	"2015"	"28-364 days"	"28-364d"	7803	3978497	2.0
+	"2016"	"2016"	"< 1 day"	"1d"	9178	3945875	2.3
+	"2016"	"2016"	"1-6 days"	"1-6d"	3181	3945875	0.8
+	"2016"	"2016"	"7-27 days"	"7-27d"	2923	3945875	0.7
+	"2016"	"2016"	"28-364 days"	"28-364d"	7879	3945875	2.0
+	"2017"	"2017"	"< 1 day"	"1d"	8960	3855500	2.3
+	"2017"	"2017"	"1-6 days"	"1-6d"	3021	3855500	0.8
+	"2017"	"2017"	"7-27 days"	"7-27d"	2840	3855500	0.7
+	"2017"	"2017"	"28-364 days"	"28-364d"	7514	3855500	1.9
+	"2018"	"2018"	"< 1 day"	"1d"	8553	3791712	2.3
+	"2018"	"2018"	"1-6 days"	"1-6d"	3009	3791712	0.8
+	"2018"	"2018"	"7-27 days"	"7-27d"	2727	3791712	0.7
+	"2018"	"2018"	"28-364 days"	"28-364d"	7178	3791712	1.9
+	"2019"	"2019"	"< 1 day"	"1d"	8040	3747540	2.1
+	"2019"	"2019"	"1-6 days"	"1-6d"	3085	3747540	0.8
+	"2019"	"2019"	"7-27 days"	"7-27d"	2676	3747540	0.7
+	"2019"	"2019"	"28-364 days"	"28-364d"	7120	3747540	1.9
+	"2020 "	"2020"	"< 1 day"	"1d"	7518	3613647	2.1
+	"2020 "	"2020"	"1-6 days"	"1-6d"	2830	3613647	0.8
+	"2020 "	"2020"	"7-27 days"	"7-27d"	2508	3613647	0.7
+	"2020 "	"2020"	"28-364 days"	"28-364d"	6726	3613647	1.9
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"Infant Age Groups: All Infant Ages"
+"Year/Month: 2015; 2016; 2017; 2018; 2019; 2020"
+"Group By: Year; Infant Age Groups"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Feb 24, 2022 1:12:11 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files, 1999-2020, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Feb 24, 2022 1:12:11 PM"
+"---"
+Caveats:
+"1. The population figures used in this table are the number of live births. Number of live births has been substituted for the"
+"estimate of the population under 1 year of age to permit calculation of infant mortality rates. All rates in this table are"
+"calculated by dividing the number of infant deaths by the number of registered live births in the same time period. It is"
+"recommended that infant mortality rates be calculated per 1,000 births. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Infant Mortality."
