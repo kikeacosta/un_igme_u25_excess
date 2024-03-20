@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# large datasets
+data_input/Brazil/deaths/
+data_input/WPP2022_POP_F01_2_POPULATION_SINGLE_AGE_MALE.xlsx
+data_input/WPP2022_POP_F01_3_POPULATION_SINGLE_AGE_FEMALE.xlsx
+
+# confidential data
+data_input/HMIS/
+data_input/JHU/
+

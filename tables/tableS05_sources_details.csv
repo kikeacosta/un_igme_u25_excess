@@ -1,0 +1,633 @@
+Code,Country,Measure,Source
+AFG,Afghanistan,live births,Health Management Information System (HMIS)
+ALB,Albania,live births,UNPD - Demographic Yearbook
+ASM,American Samoa,live births,UNPD - Demographic Yearbook
+AND,Andorra,live births,UNPD - Demographic Yearbook
+ATG,Antigua and Barbuda,live births,UNPD - Demographic Yearbook
+ARG,Argentina,live births,UNICEF data call. Argentina Ministerio de Salud - CRVS. Data submitted to UNICEF via e-mail
+ABW,Aruba,live births,UNPD - Demographic Yearbook
+AUS,Australia,live births,UNICEF data call. Australian Bureau of Statistics. Vital statistics and civil registration (CRVS). https://www. abs.gov.au. 
+AUT,Austria,live births,Short-term fertility fluctuations database (STFF)
+BGD,Bangladesh,live births,Health Management Information System (HMIS)
+BEL,Belgium,live births,Human Mortality Database (HMD)
+BLZ,Belize,live births,UNPD - Demographic Yearbook
+BMU,Bermuda,live births,UNPD - Demographic Yearbook
+BIH,Bosnia and Herzegovina,live births,UNPD - Demographic Yearbook
+BRA,Brazil,live births,Ministerio da Saude - Datasus https://datasus.saude.gov.br/
+BRN,Brunei Darussalam,live births,UNPD - Demographic Yearbook
+BGR,Bulgaria,live births,"UNICEF data call. National Statistical Institute of Bulgaria, Information System Demography. https://www.czso.cz/csu/czso/home. "
+BFA,Burkina Faso,live births,Health Management Information System (HMIS)
+BDI,Burundi,live births,Health Management Information System (HMIS)
+CAN,Canada,live births,Short-term fertility fluctuations database (STFF)
+CHL,Chile,live births,Short-term fertility fluctuations database (STFF)
+CHN,China,live births,UNPD - World Population Pospects 2022 (WPP)
+COL,Colombia,live births,UNICEF data call. National Administrative Department of Statistics (DANE) - CRVS. Data submitted to UNICEF via e-mail
+CRI,Costa Rica,live births,UNPD - Demographic Yearbook
+HRV,Croatia,live births,Eurostat Database
+CUB,Cuba,live births,UNPD - Demographic Yearbook
+CYP,Cyprus,live births,Eurostat Database
+CZE,Czechia,live births,UNICEF data call. Czech Statistical Office. CRVS-statistical reports on birth/death. https://www.czso.cz/csu/czso/home. 
+DNK,Denmark,live births,Human Mortality Database (HMD)
+DMA,Dominica,live births,UNPD - World Population Pospects 2022 (WPP)
+DOM,Dominican Republic,live births,UNPD - Demographic Yearbook
+ECU,Ecuador,live births,UNICEF data call. Instituto Nacional de EstadÃ­stica y Censos (INEC) - CRVS. Data submitted to UNICEF via e-mail
+EGY,Egypt,live births,UNPD - Demographic Yearbook
+EST,Estonia,live births,Short-term fertility fluctuations database (STFF)
+SWZ,Eswatini,live births,Health Management Information System (HMIS)
+ETH,Ethiopia,live births,Health Management Information System (HMIS)
+FIN,Finland,live births,UNICEF data call. Statistics Finland. Digital and Population Data Services Agency. 
+FRA,France,live births,Eurostat Database
+GUF,French Guiana,live births,UNPD - Demographic Yearbook
+PYF,French Polynesia,live births,UNPD - Demographic Yearbook
+GEO,Georgia,live births,UNICEF data call. National Statistics Office of Georgia (Geostat). Administrative data. 
+DEU,Germany,live births,Eurostat Database
+GRC,Greece,live births,Eurostat Database
+GRD,Grenada,live births,UNPD - World Population Pospects 2022 (WPP)
+GTM,Guatemala,live births,UNPD - Demographic Yearbook
+HND,Honduras,live births,UNICEF data call. Secretaria de Salud of Honduras. Area Estadistica de la Salud. Data submitted to UNICEF via e-mail
+HKG,Hong Kong - China SAR,live births,UNPD - World Population Pospects 2022 (WPP)
+HUN,Hungary,live births,Eurostat Database
+ISL,Iceland,live births,Short-term fertility fluctuations database (STFF)
+IND,India,live births,Ministry of Health and Family Welfare of India. Health Management Information System (HMIS). https://hmis.mohfw.gov.in
+IRN,Iran,live births,UNPD - Demographic Yearbook
+IRL,Ireland,live births,Eurostat Database
+ISR,Israel,live births,Short-term fertility fluctuations database (STFF)
+ITA,Italy,live births,Eurostat Database
+JPN,Japan,live births,Human Mortality Database (HMD)
+KAZ,Kazakhstan,live births,UNPD - Demographic Yearbook
+KEN,Kenya,live births,Health Management Information System (HMIS)
+KWT,Kuwait,live births,UNPD - Demographic Yearbook
+KGZ,Kyrgyzstan,live births,UNPD - Demographic Yearbook
+LVA,Latvia,live births,Short-term fertility fluctuations database (STFF)
+LBN,Lebanon,live births,UNPD - World Population Pospects 2022 (WPP)
+LBR,Liberia,live births,Health Management Information System (HMIS)
+LBY,Libya,live births,UNICEF data call. Libyan Civil Registration Authority. Electronic system based on actual deaths and births registered by date. 
+LIE,Liechtenstein,live births,Eurostat Database
+LTU,Lithuania,live births,UNICEF data call. Statistics Lithuania. Population register. 
+LUX,Luxembourg,live births,Human Mortality Database (HMD)
+MDG,Madagascar,live births,Health Management Information System (HMIS)
+MWI,Malawi,live births,Health Management Information System (HMIS)
+MYS,Malaysia,live births,UNICEF data call. Ministry of Health of Malaysia. Department of National Registration.  
+MDV,Maldives,live births,UNICEF data call. Maldives Ministry of Health. Vital registration.  
+MLT,Malta,live births,UNICEF data call. Ministry for Health and National Statistics Office of Malta. Malta National Birth and Mortality Registry. Data submitted to UNICEF via email.
+MTQ,Martinique,live births,UNPD - Demographic Yearbook
+MUS,Mauritius,live births,"UNICEF data call. Statistics Mauritius, Vital statistics and civil registration.  "
+MYT,Mayotte,live births,UNPD - Demographic Yearbook
+MEX,Mexico,live births,Instituto Nacional de Estadistica y Geografia (INEGI) - CRVS
+MDA,Moldova,live births,UNPD - Demographic Yearbook
+MNG,Mongolia,live births,UNPD - Demographic Yearbook
+MNE,Montenegro,live births,UNICEF data call. Montenegro Statistical Office and Institute of Public Health of Montenegro. Vital registration data. Data submitted to UNICEF via email.
+MSR,Montserrat,live births,UNPD - Demographic Yearbook
+MOZ,Mozambique,live births,Countrywide Mortality Surveillance for Action (COMSA)
+NRU,Nauru,live births,UNICEF data call. Government of the Republic of Nauru. Birth Notification and Certificate and  Cause of Death Notifification. 
+NLD,Netherlands,live births,Short-term fertility fluctuations database (STFF)
+NZL,New Zealand,live births,UNPD - Demographic Yearbook
+NIC,Nicaragua,live births,UNPD - Demographic Yearbook
+MKD,North Macedonia,live births,UNPD - Demographic Yearbook
+NOR,Norway,live births,Human Mortality Database (HMD)
+OMN,Oman,live births,UNPD - Demographic Yearbook
+PAN,Panama,live births,UNICEF data call. Panama Ministry of Health. Vital statistics and civil registration. 
+PRY,Paraguay,live births,UNPD - World Population Pospects 2022 (WPP)
+PER,Peru,live births,UNPD - Demographic Yearbook
+PHL,Philippines,live births,UNPD - Demographic Yearbook
+POL,Poland,live births,UNICEF data call. Statisitics Poland. Civil Registration and Vital Statistics. https://stat.gov.pl/. 
+PRT,Portugal,live births,UNICEF data call. Statistics Portugal. Civil Registration and Vital Statistics. 
+PRI,Puerto Rico,live births,UNPD - Demographic Yearbook
+QAT,Qatar,live births,UNPD - Demographic Yearbook
+REU,Reunion,live births,UNPD - Demographic Yearbook
+ROU,Romania,live births,Short-term fertility fluctuations database (STFF)
+RUS,Russia,live births,UNPD - Demographic Yearbook
+LCA,Saint Lucia,live births,UNPD - World Population Pospects 2022 (WPP)
+SRB,Serbia,live births,UNPD - Demographic Yearbook
+SYC,Seychelles,live births,UNPD - Demographic Yearbook
+SGP,Singapore,live births,UNPD - Demographic Yearbook
+SVK,Slovakia,live births,Short-term fertility fluctuations database (STFF)
+SVN,Slovenia,live births,Short-term fertility fluctuations database (STFF)
+ZAF,South Africa,live births,"UNPD - Dorrington, R."
+KOR,South Korea,live births,"UNICEF data call. Statisitcs Korea. Civil registration system. https://kosis.kr, https://mdis.kostat.go.kr.  "
+ESP,Spain,live births,Short-term fertility fluctuations database (STFF)
+LKA,Sri Lanka,live births,UNPD - Demographic Yearbook
+PSE,State of Palestine,live births,UNPD - Demographic Yearbook
+SUR,Suriname,live births,UNPD - Demographic Yearbook
+SWE,Sweden,live births,Human Mortality Database (HMD)
+CHE,Switzerland,live births,"UNICEF data call. Federal statistical office, Switzerland. Vita  Statistics, BEVNAT. https://www.bfs.admin.ch/bfs/en/home/statistics/population/births-deaths/. "
+TWN,Taiwan - Province of China,live births,Short-term fertility fluctuations database (STFF)
+THA,Thailand,live births,UNPD - Demographic Yearbook
+TUR,Turkey,live births,UNICEF data call. Turkish Statistical Institute (TURKSTAT) and Turkish Minsitry of Health.  Central Civil Registration System (MERNÄ°S) and Death Notification System (OBS). 
+TCA,Turks and Caicos Islands,live births,UNPD - Demographic Yearbook
+USA,USA,live births,Human Mortality Database (HMD)
+UGA,Uganda,live births,Health Management Information System (HMIS)
+UKR,Ukraine,live births,Short-term fertility fluctuations database (STFF)
+ARE,United Arab Emirates,live births,UNPD - Demographic Yearbook
+GBR,United Kingdom,live births,Human Mortality Database (HMD)
+URY,Uruguay,live births,UNICEF data call. Uruguay Ministry of Health. Vital Statistics. https://uins.msp.gub.uy/. 
+UZB,Uzbekistan,live births,UNPD - Demographic Yearbook
+ZMB,Zambia,live births,Health Management Information System (HMIS)
+ZWE,Zimbabwe,live births,Health Management Information System (HMIS)
+ALB,Albania,population,UNPD - World Population Pospects 2022 (WPP)
+ASM,American Samoa,population,UNPD - World Population Pospects 2022 (WPP)
+AND,Andorra,population,UNPD - World Population Pospects 2022 (WPP)
+ATG,Antigua and Barbuda,population,UNPD - World Population Pospects 2022 (WPP)
+ARG,Argentina,population,UNPD - World Population Pospects 2022 (WPP)
+ABW,Aruba,population,UNPD - World Population Pospects 2022 (WPP)
+AUS,Australia,population,Human Mortality Database (HMD)
+AUT,Austria,population,UNPD - World Population Pospects 2022 (WPP)
+BGD,Bangladesh,population,UNPD - World Population Pospects 2022 (WPP)
+BEL,Belgium,population,Human Mortality Database (HMD)
+BLZ,Belize,population,UNPD - World Population Pospects 2022 (WPP)
+BMU,Bermuda,population,UNPD - World Population Pospects 2022 (WPP)
+BIH,Bosnia and Herzegovina,population,UNPD - World Population Pospects 2022 (WPP)
+BRA,Brazil,population,UNPD - World Population Pospects 2022 (WPP)
+BRN,Brunei Darussalam,population,UNPD - World Population Pospects 2022 (WPP)
+BGR,Bulgaria,population,Human Mortality Database (HMD)
+CAN,Canada,population,Human Mortality Database (HMD)
+CHL,Chile,population,Human Mortality Database (HMD)
+CHN,China,population,UNPD - World Population Pospects 2022 (WPP)
+COL,Colombia,population,UNPD - World Population Pospects 2022 (WPP)
+CRI,Costa Rica,population,UNPD - World Population Pospects 2022 (WPP)
+HRV,Croatia,population,Human Mortality Database (HMD)
+CUB,Cuba,population,UNPD - World Population Pospects 2022 (WPP)
+CYP,Cyprus,population,UNPD - World Population Pospects 2022 (WPP)
+CZE,Czechia,population,Human Mortality Database (HMD)
+DNK,Denmark,population,Human Mortality Database (HMD)
+DMA,Dominica,population,UNPD - World Population Pospects 2022 (WPP)
+DOM,Dominican Republic,population,UNPD - World Population Pospects 2022 (WPP)
+ECU,Ecuador,population,UNPD - World Population Pospects 2022 (WPP)
+EGY,Egypt,population,UNPD - World Population Pospects 2022 (WPP)
+EST,Estonia,population,UNPD - World Population Pospects 2022 (WPP)
+FIN,Finland,population,Human Mortality Database (HMD)
+FRA,France,population,Human Mortality Database (HMD)
+GUF,French Guiana,population,UNPD - World Population Pospects 2022 (WPP)
+PYF,French Polynesia,population,UNPD - World Population Pospects 2022 (WPP)
+GEO,Georgia,population,UNPD - World Population Pospects 2022 (WPP)
+DEU,Germany,population,Human Mortality Database (HMD)
+GRC,Greece,population,UNPD - World Population Pospects 2022 (WPP)
+GRD,Grenada,population,UNPD - World Population Pospects 2022 (WPP)
+GTM,Guatemala,population,UNPD - World Population Pospects 2022 (WPP)
+HND,Honduras,population,UNPD - World Population Pospects 2022 (WPP)
+HKG,Hong Kong - China SAR,population,UNPD - World Population Pospects 2022 (WPP)
+HUN,Hungary,population,Human Mortality Database (HMD)
+ISL,Iceland,population,Human Mortality Database (HMD)
+IND,India,population,UNPD - World Population Pospects 2022 (WPP)
+IRN,Iran,population,UNPD - World Population Pospects 2022 (WPP)
+IRL,Ireland,population,Human Mortality Database (HMD)
+ISR,Israel,population,UNPD - World Population Pospects 2022 (WPP)
+ITA,Italy,population,UNPD - World Population Pospects 2022 (WPP)
+JPN,Japan,population,Human Mortality Database (HMD)
+KAZ,Kazakhstan,population,UNPD - World Population Pospects 2022 (WPP)
+KWT,Kuwait,population,UNPD - World Population Pospects 2022 (WPP)
+KGZ,Kyrgyzstan,population,UNPD - World Population Pospects 2022 (WPP)
+LVA,Latvia,population,UNPD - World Population Pospects 2022 (WPP)
+LBN,Lebanon,population,UNPD - World Population Pospects 2022 (WPP)
+LBY,Libya,population,UNPD - World Population Pospects 2022 (WPP)
+LIE,Liechtenstein,population,UNPD - World Population Pospects 2022 (WPP)
+LTU,Lithuania,population,Human Mortality Database (HMD)
+LUX,Luxembourg,population,Human Mortality Database (HMD)
+MYS,Malaysia,population,UNPD - World Population Pospects 2022 (WPP)
+MDV,Maldives,population,UNPD - World Population Pospects 2022 (WPP)
+MLT,Malta,population,UNPD - World Population Pospects 2022 (WPP)
+MTQ,Martinique,population,UNPD - World Population Pospects 2022 (WPP)
+MUS,Mauritius,population,UNPD - World Population Pospects 2022 (WPP)
+MYT,Mayotte,population,UNPD - World Population Pospects 2022 (WPP)
+MEX,Mexico,population,UNPD - World Population Pospects 2022 (WPP)
+MDA,Moldova,population,UNPD - World Population Pospects 2022 (WPP)
+MNG,Mongolia,population,UNPD - World Population Pospects 2022 (WPP)
+MNE,Montenegro,population,UNPD - World Population Pospects 2022 (WPP)
+MSR,Montserrat,population,UNPD - World Population Pospects 2022 (WPP)
+NRU,Nauru,population,UNPD - World Population Pospects 2022 (WPP)
+NLD,Netherlands,population,UNPD - World Population Pospects 2022 (WPP)
+NZL,New Zealand,population,Human Mortality Database (HMD)
+NIC,Nicaragua,population,UNPD - World Population Pospects 2022 (WPP)
+MKD,North Macedonia,population,UNPD - World Population Pospects 2022 (WPP)
+NOR,Norway,population,Human Mortality Database (HMD)
+OMN,Oman,population,UNPD - World Population Pospects 2022 (WPP)
+PAN,Panama,population,UNPD - World Population Pospects 2022 (WPP)
+PRY,Paraguay,population,UNPD - World Population Pospects 2022 (WPP)
+PER,Peru,population,UNPD - World Population Pospects 2022 (WPP)
+PHL,Philippines,population,UNPD - World Population Pospects 2022 (WPP)
+POL,Poland,population,UNPD - World Population Pospects 2022 (WPP)
+PRT,Portugal,population,Human Mortality Database (HMD)
+PRI,Puerto Rico,population,UNPD - World Population Pospects 2022 (WPP)
+QAT,Qatar,population,UNPD - World Population Pospects 2022 (WPP)
+REU,Reunion,population,UNPD - World Population Pospects 2022 (WPP)
+ROU,Romania,population,UNPD - World Population Pospects 2022 (WPP)
+RUS,Russia,population,UNPD - World Population Pospects 2022 (WPP)
+LCA,Saint Lucia,population,UNPD - World Population Pospects 2022 (WPP)
+SRB,Serbia,population,UNPD - World Population Pospects 2022 (WPP)
+SYC,Seychelles,population,UNPD - World Population Pospects 2022 (WPP)
+SGP,Singapore,population,UNPD - World Population Pospects 2022 (WPP)
+SVK,Slovakia,population,UNPD - World Population Pospects 2022 (WPP)
+SVN,Slovenia,population,UNPD - World Population Pospects 2022 (WPP)
+ZAF,South Africa,population,UNPD - World Population Pospects 2022 (WPP)
+KOR,South Korea,population,Human Mortality Database (HMD)
+ESP,Spain,population,Human Mortality Database (HMD)
+LKA,Sri Lanka,population,UNPD - World Population Pospects 2022 (WPP)
+PSE,State of Palestine,population,UNPD - World Population Pospects 2022 (WPP)
+SUR,Suriname,population,UNPD - World Population Pospects 2022 (WPP)
+SWE,Sweden,population,Human Mortality Database (HMD)
+CHE,Switzerland,population,Human Mortality Database (HMD)
+TWN,Taiwan - Province of China,population,UNPD - World Population Pospects 2022 (WPP)
+THA,Thailand,population,UNPD - World Population Pospects 2022 (WPP)
+TUR,Turkey,population,UNPD - World Population Pospects 2022 (WPP)
+TCA,Turks and Caicos Islands,population,UNPD - World Population Pospects 2022 (WPP)
+USA,USA,population,Human Mortality Database (HMD)
+UKR,Ukraine,population,UNPD - World Population Pospects 2022 (WPP)
+ARE,United Arab Emirates,population,UNPD - World Population Pospects 2022 (WPP)
+GBR,United Kingdom,population,Human Mortality Database (HMD)
+URY,Uruguay,population,UNPD - World Population Pospects 2022 (WPP)
+UZB,Uzbekistan,population,UNPD - World Population Pospects 2022 (WPP)
+AFG,Afghanistan,stillbirths,Health Management Information System (HMIS)
+ALB,Albania,stillbirths,Eurostat Database
+AND,Andorra,stillbirths,UNICEF data call. Andorra Ministry of Health. Mortality and birth register of https://www.salut.ad/temes-de-salut/natalitat-i-mortalitat.
+ARG,Argentina,stillbirths,UNICEF data call. Argentina Ministerio de Salud - CRVS. Data submitted to UNICEF via e-mail
+AUS,Australia,stillbirths,UNICEF data call. Australian Bureau of Statistics. Vital statistics and civil registration (CRVS). https://www. abs.gov.au. 
+AUT,Austria,stillbirths,Eurostat Database
+BGD,Bangladesh,stillbirths,Health Management Information System (HMIS)
+BEL,Belgium,stillbirths,Eurostat Database
+BIH,Bosnia and Herzegovina,stillbirths,UNICEF data call. Agency for Statistics of Bosnia and Herzegovina.  Civil registration and vital statistics. 
+BRA,Brazil,stillbirths,UNICEF data call. Ministerio da Saude - Datasus https://datasus.saude.gov.br/
+BGR,Bulgaria,stillbirths,"UNICEF data call. National Statistical Institute of Bulgaria, Information System Demography. https://www.czso.cz/csu/czso/home. "
+BFA,Burkina Faso,stillbirths,Health Management Information System (HMIS)
+BDI,Burundi,stillbirths,Health Management Information System (HMIS)
+CAN,Canada,stillbirths,UNICEF data call. Statistics Canada. Vital statistics and civil registration (CRVS). https://www23.statcan.gc.ca/  
+COL,Colombia,stillbirths,National Administrative Department of Statistics (DANE) - CRVS
+HRV,Croatia,stillbirths,Eurostat Database
+CYP,Cyprus,stillbirths,UNICEF data call. Republic of Cyprus. Ministry of Health. Medical Birth and Death Registry. 
+CZE,Czechia,stillbirths,UNICEF data call. Czech Statistical Office. CRVS-statistical reports on birth/death. https://www.czso.cz/csu/czso/home. 
+DNK,Denmark,stillbirths,Eurostat Database
+ECU,Ecuador,stillbirths,UNICEF data call. Instituto Nacional de EstadÃ­stica y Censos (INEC) - CRVS. Data submitted to UNICEF via e-mail
+EST,Estonia,stillbirths,"UNICEF data call. National Institute for Health Development, Estonia. Estonian Medical Birth Registry and Estonian Abortion Registry and Estonian Causes of Death Registry  "
+SWZ,Eswatini,stillbirths,Health Management Information System (HMIS)
+ETH,Ethiopia,stillbirths,Health Management Information System (HMIS)
+FIN,Finland,stillbirths,UNICEF data call. Statistics Finland. Digital and Population Data Services Agency. 
+FRA,France,stillbirths,UNICEF data call. SystÃ¨me National des DonnÃ©es de SantÃ© (SNDS) - CRVS
+GEO,Georgia,stillbirths,UNICEF data call. National Statistics Office of Georgia (Geostat). 
+DEU,Germany,stillbirths,Eurostat Database
+GRC,Greece,stillbirths,UNICEF data call. Hellenic Statistical Authority - CRVS. Data submitted to UNICEF via email.
+HND,Honduras,stillbirths,UNICEF data call. Secretaria de Salud of Honduras. Area Estadistica de la Salud. Data submitted to UNICEF via e-mail
+HUN,Hungary,stillbirths,UNICEF data call. Hungarian Central Statistical Office. Department of Population Statistics. https://www.ksh.hu/.  
+ISL,Iceland,stillbirths,UNICEF data call. Icelandic Medical Birth Registry
+IND,India,stillbirths,Ministry of Health and Family Welfare of India. Health Management Information System (HMIS). https://hmis.mohfw.gov.in
+IRL,Ireland,stillbirths,Eurostat Database
+ISR,Israel,stillbirths,UNICEF data call. Israel Central Bureau of Statistics. Forms from hospitals for stilbirths. www.cbs.gov.il. 
+ITA,Italy,stillbirths,Eurostat Database
+JPN,Japan,stillbirths,"UNICEF data call. Ministry of Health of Japan, Labour and Welfare. Vital Statistics of Japan. https://www.e-stat.go.jp/. "
+KEN,Kenya,stillbirths,Health Management Information System (HMIS)
+LVA,Latvia,stillbirths,"UNICEF data call. Latvia Ministry of Health, The Centre for Disease Prevention and Control of Latvia. Medical Birth Register and Register of Causes of Death. "
+LBR,Liberia,stillbirths,Health Management Information System (HMIS)
+LTU,Lithuania,stillbirths,UNICEF data call. Statistics Lithuania. Population register. 
+LUX,Luxembourg,stillbirths,Eurostat Database
+MDG,Madagascar,stillbirths,Health Management Information System (HMIS)
+MWI,Malawi,stillbirths,Health Management Information System (HMIS)
+MYS,Malaysia,stillbirths,UNICEF data call. Ministry of Health of Malaysia. Department of National Registration.  
+MDV,Maldives,stillbirths,UNICEF data call. Maldives Ministry of Health. Vital registration.  
+MLT,Malta,stillbirths,UNICEF data call. Ministry for Health and National Statistics Office of Malta. Malta National Birth and Mortality Registry. Data submitted to UNICEF via email.
+MUS,Mauritius,stillbirths,"UNICEF data call. Statistics Mauritius, Vital statistics and civil registration.  "
+MEX,Mexico,stillbirths,Instituto Nacional de Estadistica y Geografia (INEGI) - CRVS
+MNG,Mongolia,stillbirths,UNICEF data call. Mongolia Ministry of Health. National Center for Health Development. Administrative records.  
+MNE,Montenegro,stillbirths,UNICEF data call. Montenegro Statistical Office and Institute of Public Health of Montenegro. Vital registration data. Data submitted to UNICEF via email.
+MOZ,Mozambique,stillbirths,Countrywide Mortality Surveillance for Action (COMSA)
+NRU,Nauru,stillbirths,UNICEF data call. Government of the Republic of Nauru. Birth Notification and Certificate and  Cause of Death Notifification. 
+NLD,Netherlands,stillbirths,Eurostat Database
+MKD,North Macedonia,stillbirths,Eurostat Database
+NOR,Norway,stillbirths,UNICEF data call. Statisitcs Norway. Medical Birth Registry of Norway and Norwegian Cause of Death Registry. 
+OMN,Oman,stillbirths,UNICEF data call. Government of Oman. Vital statistics and civil registration and Health Information System. 
+PAN,Panama,stillbirths,UNICEF data call. Panama Ministry of Health. Vital statistics and civil registration. 
+PHL,Philippines,stillbirths,UNICEF data call. Philippine Statistics Authority - CRVS. Data submitted to UNICEF via e-mail
+POL,Poland,stillbirths,Eurostat Database
+PRT,Portugal,stillbirths,UNICEF data call. Statistics Portugal. Civil Registration and Vital Statistics. 
+QAT,Qatar,stillbirths,UNICEF data call. Qatar Ministry of Public Health. Births and Deaths Registration.  
+ROU,Romania,stillbirths,UNICEF data call. National Institute of Statistics of Romania. Vital registration. https://insse.ro/cms/en
+SRB,Serbia,stillbirths,UNICEF data call. Statistical Office of the Republic of Serbia. Administrative data source. Birth and death register.  
+SGP,Singapore,stillbirths,UNICEF data call. Singapore Ministry of Health. Registry of Births and Deaths. 
+SVK,Slovakia,stillbirths,"UNICEF data call. Statistical Office of the Slovak Republic, Registry offices. Statistical Report on Birth and Medical Report and the Statistical Report on Death. "
+SVN,Slovenia,stillbirths,UNICEF data call. National Institute of Public Health - CRVS
+ZAF,South Africa,stillbirths,"UNICEF data call. Rapid Mortality Surveillance, supplied by R. Dorrington."
+KOR,South Korea,stillbirths,"UNICEF data call. Statisitcs Korea. Civil registration system. https://kosis.kr, https://mdis.kostat.go.kr.  "
+ESP,Spain,stillbirths,Eurostat Database
+LKA,Sri Lanka,stillbirths,UNICEF data call. Perinatal death Surveillance unit -Family Health Bureau - CRVS
+SWE,Sweden,stillbirths,UNICEF data call. Swedish National Board of Health and Welfare. The Swedish Medical Birth Register and the Swedish Cause of Death Register. 
+CHE,Switzerland,stillbirths,"UNICEF data call. Federal statistical office, Switzerland. Vita  Statistics, BEVNAT. https://www.bfs.admin.ch/bfs/en/home/statistics/population/births-deaths/. "
+TUR,Turkey,stillbirths,UNICEF data call. Turkish Statistical Institute (TURKSTAT) and Turkish Minsitry of Health.  Central Civil Registration System (MERNÄ°S) and Death Notification System (OBS). 
+USA,USA,stillbirths,UNICEF data call. Centers for Disease Control and Prevention of the United States (CDC) - CRVS. Data submitted to UNICEF via e-mail
+UGA,Uganda,stillbirths,Health Management Information System (HMIS)
+UKR,Ukraine,stillbirths,UNICEF data call. State Statistics Service of Ukraine. Administrative data of vital records. 
+GBR,United Kingdom,stillbirths,UNICEF data call. Mothers and Babies: Reducing Risk through Audits and Confidential Enquiries across the UK (MBRRACE-UK) - CRSV
+URY,Uruguay,stillbirths,UNICEF data call. Uruguay Ministry of Health. Vital Statistics. https://uins.msp.gub.uy/. 
+ZMB,Zambia,stillbirths,Health Management Information System (HMIS)
+ZWE,Zimbabwe,stillbirths,Health Management Information System (HMIS)
+ALB,Albania,neonatal,UNPD - Eurostat Database
+AND,Andorra,neonatal,UNICEF data call. Andorra Ministry of Health. Mortality and birth register of https://www.salut.ad/temes-de-salut/natalitat-i-mortalitat.
+ARG,Argentina,neonatal,UNICEF data call. Argentina Ministerio de Salud - CRVS. Data submitted to UNICEF via e-mail
+AUS,Australia,neonatal,UNICEF data call. Australian Bureau of Statistics. Vital statistics and civil registration (CRVS). https://www. abs.gov.au. 
+AUT,Austria,neonatal,Eurostat Database
+BGD,Bangladesh,neonatal,Health Management Information System (HMIS)
+BEL,Belgium,neonatal,Eurostat Database
+BIH,Bosnia and Herzegovina,neonatal,UNICEF data call. Agency for Statistics of Bosnia and Herzegovina.  Civil registration and vital statistics. 
+BRA,Brazil,neonatal,UNICEF data call. Ministerio da Saude - Datasus https://datasus.saude.gov.br/
+BGR,Bulgaria,neonatal,"UNICEF data call. National Statistical Institute of Bulgaria, Information System Demography. https://www.czso.cz/csu/czso/home. "
+BFA,Burkina Faso,neonatal,Health Management Information System (HMIS)
+BDI,Burundi,neonatal,Health Management Information System (HMIS)
+CAN,Canada,neonatal,UNICEF data call. Statistics Canada. Vital statistics and civil registration (CRVS). https://www23.statcan.gc.ca/  
+COL,Colombia,neonatal,UNICEF data call. National Administrative Department of Statistics (DANE) - CRVS. Data submitted to UNICEF via e-mail
+CRI,Costa Rica,neonatal,"UNPD - UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality rate database 2021."
+HRV,Croatia,neonatal,Eurostat Database
+CUB,Cuba,neonatal,"UNPD - UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality rate database 2021."
+CYP,Cyprus,neonatal,UNICEF data call. Republic of Cyprus. Ministry of Health. Medical Birth and Death Registry. 
+CZE,Czechia,neonatal,UNICEF data call. Czech Statistical Office. CRVS-statistical reports on birth/death. https://www.czso.cz/csu/czso/home. 
+DNK,Denmark,neonatal,Eurostat Database
+ECU,Ecuador,neonatal,UNICEF data call. Instituto Nacional de EstadÃ­stica y Censos (INEC) - CRVS. Data submitted to UNICEF via e-mail
+EST,Estonia,neonatal,"UNICEF data call. National Institute for Health Development, Estonia. Estonian Medical Birth Registry and Estonian Abortion Registry and Estonian Causes of Death Registry  "
+SWZ,Eswatini,neonatal,Health Management Information System (HMIS)
+ETH,Ethiopia,neonatal,Health Management Information System (HMIS)
+FIN,Finland,neonatal,UNICEF data call. Statistics Finland. Digital and Population Data Services Agency. 
+FRA,France,neonatal,Eurostat Database
+GEO,Georgia,neonatal,UNICEF data call. National Statistics Office of Georgia (Geostat). Administrative data. https://www.geostat.ge/en/modules/categories/316/population-and-demography. 
+DEU,Germany,neonatal,Eurostat Database
+GRC,Greece,neonatal,UNICEF data call. Hellenic Statistical Authority - CRVS. Data submitted to UNICEF via email.
+HUN,Hungary,neonatal,UNICEF data call. Hungarian Central Statistical Office. Department of Population Statistics. https://www.ksh.hu/.  
+ISL,Iceland,neonatal,UNICEF data call. Icelandic Medical Birth Registry
+IND,India,neonatal,Ministry of Health and Family Welfare of India. Health Management Information System (HMIS). https://hmis.mohfw.gov.in
+IRL,Ireland,neonatal,Eurostat Database
+ISR,Israel,neonatal,UNICEF data call. Israel Central Bureau of Statistics. Population register. www.cbs.gov.il. 
+ITA,Italy,neonatal,Eurostat Database
+JPN,Japan,neonatal,"UNICEF data call. Ministry of Health of Japan, Labour and Welfare. Vital Statistics of Japan. https://www.e-stat.go.jp/. "
+KAZ,Kazakhstan,neonatal,"UNPD - UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality rate database 2021."
+KEN,Kenya,neonatal,Health Management Information System (HMIS)
+KWT,Kuwait,neonatal,UNICEF data call. Kuwait Central Statistical Bureau and  Kuwait Ministry of Health. Vital Statistics. 
+LVA,Latvia,neonatal,"UNICEF data call. Latvia Ministry of Health, The Centre for Disease Prevention and Control of Latvia. Medical Birth Register and Register of Causes of Death. "
+LBR,Liberia,neonatal,Health Management Information System (HMIS)
+LTU,Lithuania,neonatal,UNICEF data call. Statistics Lithuania. Population register. 
+LUX,Luxembourg,neonatal,Eurostat Database
+MDG,Madagascar,neonatal,Health Management Information System (HMIS)
+MWI,Malawi,neonatal,Health Management Information System (HMIS)
+MYS,Malaysia,neonatal,UNICEF data call. Ministry of Health of Malaysia. Department of National Registration.  
+MDV,Maldives,neonatal,UNICEF data call. Maldives Ministry of Health. Vital registration.  
+MLT,Malta,neonatal,UNICEF data call. Ministry for Health and National Statistics Office of Malta. Malta National Birth and Mortality Registry. Data submitted to UNICEF via email.
+MUS,Mauritius,neonatal,"UNICEF data call. Statistics Mauritius, Vital statistics and civil registration.  "
+MEX,Mexico,neonatal,Instituto Nacional de Estadistica y Geografia (INEGI) - CRVS
+MDA,Moldova,neonatal,"UNPD - UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality rate database 2021."
+MNG,Mongolia,neonatal,UNICEF data call. Mongolia Ministry of Health. National Center for Health Development. Administrative records.  
+MNE,Montenegro,neonatal,"UNPD - UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality rate database 2021."
+MOZ,Mozambique,neonatal,Countrywide Mortality Surveillance for Action (COMSA)
+NRU,Nauru,neonatal,UNICEF data call. Government of the Republic of Nauru. Birth Notification and Certificate and  Cause of Death Notifification. 
+NLD,Netherlands,neonatal,Eurostat Database
+MKD,North Macedonia,neonatal,UNPD - Eurostat Database
+NOR,Norway,neonatal,UNICEF data call. Statisitcs Norway. Medical Birth Registry of Norway and Norwegian Cause of Death Registry. 
+OMN,Oman,neonatal,UNICEF data call. Government of Oman. Vital statistics and civil registration and Health Information System. 
+PAN,Panama,neonatal,UNICEF data call. Panama Ministry of Health. Vital statistics and civil registration. 
+PHL,Philippines,neonatal,UNICEF data call. Philippine Statistics Authority - CRVS. Data submitted to UNICEF via e-mail
+POL,Poland,neonatal,UNICEF data call. Statisitics Poland. Civil Registration and Vital Statistics. https://stat.gov.pl/. 
+PRT,Portugal,neonatal,UNICEF data call. Statistics Portugal. Civil Registration and Vital Statistics. 
+QAT,Qatar,neonatal,UNICEF data call. Qatar Ministry of Public Health. Births and Deaths Registration.  
+ROU,Romania,neonatal,UNICEF data call. National Institute of Statistics of Romania. Vital registration. https://insse.ro/cms/en
+RUS,Russia,neonatal,UNICEF data call. Russian Federal State Statistics Service. Vital registration data. Data submitted to UNICEF via email.
+SRB,Serbia,neonatal,UNICEF data call. Statistical Office of the Republic of Serbia. Administrative data source. Birth and death register.  
+SGP,Singapore,neonatal,UNICEF data call. Singapore Ministry of Health. Registry of Births and Deaths. 
+SVK,Slovakia,neonatal,"UNICEF data call. Statistical Office of the Slovak Republic, Registry offices. Statistical Report on Birth and Medical Report and the Statistical Report on Death. "
+SVN,Slovenia,neonatal,UNICEF data call. National Institute of Public Health - CRVS
+ZAF,South Africa,neonatal,"UNICEF data call. Rapid Mortality Surveillance, supplied by R. Dorrington."
+KOR,South Korea,neonatal,"UNICEF data call. Statisitcs Korea. Civil registration system. https://kosis.kr, https://mdis.kostat.go.kr.  "
+ESP,Spain,neonatal,Eurostat Database
+LKA,Sri Lanka,neonatal,UNICEF data call. Perinatal death Surveillance unit -Family Health Bureau - CRVS
+SWE,Sweden,neonatal,"UNICEF data call. Swedish National Board of Health and Welfare. The Swedish Medical Birth Register and the Swedish Cause of Death Register, "
+CHE,Switzerland,neonatal,"UNICEF data call. Federal statistical office, Switzerland. Vita  Statistics, BEVNAT. "
+TUR,Turkey,neonatal,UNICEF data call. Turkish Statistical Institute (TURKSTAT) and Turkish Minsitry of Health.  Central Civil Registration System (MERNÄ°S) and Death Notification System (OBS). 
+USA,USA,neonatal,UNICEF data call. Centers for Disease Control and Prevention of the United States (CDC) - CRVS. Data submitted to UNICEF via e-mail
+UGA,Uganda,neonatal,Health Management Information System (HMIS)
+UKR,Ukraine,neonatal,UNICEF data call. State Statistics Service of Ukraine. Administrative data of vital records. 
+GBR,United Kingdom,neonatal,UNICEF data call. Mothers and Babies: Reducing Risk through Audits and Confidential Enquiries across the UK (MBRRACE-UK) - CRSV
+URY,Uruguay,neonatal,UNICEF data call. Uruguay Ministry of Health. Vital Statistics. https://uins.msp.gub.uy/. 
+UZB,Uzbekistan,neonatal,UNICEF data call. Statistics Agency under the President of the Republic of Uzbekistan. Department of Demography and Labor Statistics. Vital registration. 
+ZMB,Zambia,neonatal,Health Management Information System (HMIS)
+ZWE,Zimbabwe,neonatal,Health Management Information System (HMIS)
+ALB,Albania,infant,Eurostat Database
+ASM,American Samoa,infant,UNPD - Demographic Yearbook
+AND,Andorra,infant,UNPD - WHO All-Cause Mortality Data Call
+ATG,Antigua and Barbuda,infant,WHO Mortality Database
+ARG,Argentina,infant,UNPD - WHO Mortality Data base
+ABW,Aruba,infant,UNPD - Demographic Yearbook
+AUS,Australia,infant,UNICEF data call. Australian Bureau of Statistics. Vital statistics and civil registration (CRVS). https://www. abs.gov.au. 
+AUT,Austria,infant,WHO Mortality Database
+BGD,Bangladesh,infant,Bangladesh Bureau of Statistics - CRVS
+BEL,Belgium,infant,Human Mortality Database (HMD)
+BLZ,Belize,infant,UNPD - Demographic Yearbook
+BMU,Bermuda,infant,UNPD - Demographic Yearbook
+BIH,Bosnia and Herzegovina,infant,UNICEF data call. Agency for Statistics of Bosnia and Herzegovina.  Civil registration and vital statistics. 
+BRA,Brazil,infant,Ministerio da Saude - Datasus https://datasus.saude.gov.br/
+BRN,Brunei Darussalam,infant,UNPD - Demographic Yearbook
+BGR,Bulgaria,infant,UNPD - WHO All-Cause Mortality Data Call
+CAN,Canada,infant,UNPD - WHO All-Cause Mortality Data Call
+CHL,Chile,infant,UNPD - WHO All-Cause Mortality Data Call
+CHN,China,infant,National Bureau of Statistics of China - SVR
+COL,Colombia,infant,UNICEF data call. National Administrative Department of Statistics (DANE) - CRVS. Data submitted to UNICEF via e-mail
+CRI,Costa Rica,infant,UNPD - WHO All-Cause Mortality Data Call
+HRV,Croatia,infant,UNPD - WHO All-Cause Mortality Data Call
+CUB,Cuba,infant,WHO Mortality Database
+CYP,Cyprus,infant,UNICEF data call. Republic of Cyprus. Ministry of Health. Medical Birth and Death Registry. 
+CZE,Czechia,infant,Human Mortality Database (HMD)
+DNK,Denmark,infant,Human Mortality Database (HMD)
+DMA,Dominica,infant,UNPD - WHO Mortality Data base
+DOM,Dominican Republic,infant,UNPD - Demographic Yearbook
+ECU,Ecuador,infant,WHO Mortality Database
+EGY,Egypt,infant,UNPD - Demographic Yearbook
+EST,Estonia,infant,WHO Mortality Database
+FIN,Finland,infant,Human Mortality Database (HMD)
+FRA,France,infant,Eurostat Database
+GUF,French Guiana,infant,UNPD - Demographic Yearbook
+PYF,French Polynesia,infant,UNPD - Demographic Yearbook
+GEO,Georgia,infant,UNICEF data call. National Statistics Office of Georgia (Geostat). Administrative data. https://www.geostat.ge/en/modules/categories/316/population-and-demography. 
+DEU,Germany,infant,Eurostat Database
+GRC,Greece,infant,WHO Mortality Database
+GRD,Grenada,infant,WHO Mortality Database
+GTM,Guatemala,infant,WHO Mortality Database
+HND,Honduras,infant,UNICEF data call. Secretaria de Salud of Honduras. Area Estadistica de la Salud. Data submitted to UNICEF via e-mail
+HKG,Hong Kong - China SAR,infant,UNPD - Demographic Yearbook
+HUN,Hungary,infant,UNICEF data call. Hungarian Central Statistical Office. Department of Population Statistics. https://www.ksh.hu/.  
+ISL,Iceland,infant,UNPD - Demographic Yearbook
+IND,India,infant,"Office of the Registrar General & Census Commissioner, India (ORGI) - Sample Registration System (SRS)"
+IRN,Iran,infant,UNPD - Demographic Yearbook
+IRL,Ireland,infant,Human Mortality Database (HMD)
+ISR,Israel,infant,UNICEF data call. Israel Central Bureau of Statistics. Population register. www.cbs.gov.il. 
+ITA,Italy,infant,Short-term mortality fluctuations database (STMF)
+JPN,Japan,infant,Human Mortality Database (HMD)
+KAZ,Kazakhstan,infant,UNPD - Demographic Yearbook
+KWT,Kuwait,infant,UNICEF data call. Kuwait Central Statistical Bureau and  Kuwait Ministry of Health. Vital Statistics. 
+KGZ,Kyrgyzstan,infant,UNPD - Demographic Yearbook
+LVA,Latvia,infant,"UNICEF data call. Latvia Ministry of Health, The Centre for Disease Prevention and Control of Latvia. Medical Birth Register and Register of Causes of Death. https://statistika.spkc.gov.lv/. "
+LBN,Lebanon,infant,WHO Mortality Database
+LIE,Liechtenstein,infant,Eurostat Database
+LTU,Lithuania,infant,UNICEF data call. Statistics Lithuania. Population register. 
+LUX,Luxembourg,infant,Human Mortality Database (HMD)
+MYS,Malaysia,infant,UNICEF data call. Ministry of Health of Malaysia. Department of National Registration.  
+MDV,Maldives,infant,UNICEF data call. Maldives Ministry of Health. Vital registration.  
+MLT,Malta,infant,Eurostat Database
+MTQ,Martinique,infant,UNPD - Demographic Yearbook
+MUS,Mauritius,infant,"UNICEF data call. Statistics Mauritius, Vital statistics and civil registration.  "
+MYT,Mayotte,infant,UNPD - Demographic Yearbook
+MEX,Mexico,infant,UNPD - WHO Mortality Data base
+MDA,Moldova,infant,UNPD - WHO All-Cause Mortality Data Call
+MNG,Mongolia,infant,UNICEF data call. Mongolia Ministry of Health. National Center for Health Development. Administrative records.  
+MNE,Montenegro,infant,Eurostat Database
+MSR,Montserrat,infant,WHO Mortality Database
+NRU,Nauru,infant,UNICEF data call. Government of the Republic of Nauru. Birth Notification and Certificate and  Cause of Death Notifification. 
+NLD,Netherlands,infant,WHO Mortality Database
+NZL,New Zealand,infant,Human Mortality Database (HMD)
+NIC,Nicaragua,infant,UNPD - WHO Mortality Data base
+MKD,North Macedonia,infant,UNPD - WHO Mortality Data base
+NOR,Norway,infant,Human Mortality Database (HMD)
+OMN,Oman,infant,UNPD - Demographic Yearbook
+PAN,Panama,infant,UNICEF data call. Panama Ministry of Health. Vital statistics and civil registration. 
+PRY,Paraguay,infant,UNPD - WHO Mortality Data base
+PER,Peru,infant,WHO Mortality Database
+PHL,Philippines,infant,UNICEF data call. Philippine Statistics Authority - CRVS. Data submitted to UNICEF via e-mail
+POL,Poland,infant,UNPD - WHO All-Cause Mortality Data Call
+PRT,Portugal,infant,UNICEF data call. Statistics Portugal. Civil Registration and Vital Statistics. 
+PRI,Puerto Rico,infant,UNPD - Demographic Yearbook
+QAT,Qatar,infant,UNPD - Demographic Yearbook
+REU,Reunion,infant,UNPD - Demographic Yearbook
+ROU,Romania,infant,UNPD - WHO All-Cause Mortality Data Call
+RUS,Russia,infant,UNICEF data call. Russian Federal State Statistics Service. Vital registration data. Data submitted to UNICEF via email.
+LCA,Saint Lucia,infant,UNPD - WHO Mortality Data base
+SRB,Serbia,infant,WHO Mortality Database
+SYC,Seychelles,infant,UNPD - Demographic Yearbook
+SGP,Singapore,infant,UNPD - Demographic Yearbook
+SVK,Slovakia,infant,"UNICEF data call. Statistical Office of the Slovak Republic, Registry offices. Statistical Report on Birth and Medical Report and the Statistical Report on Death. "
+SVN,Slovenia,infant,WHO Mortality Database
+ZAF,South Africa,infant,"UNICEF data call. Rapid Mortality Surveillance, supplied by R. Dorrington."
+KOR,South Korea,infant,"UNICEF data call. Statisitcs Korea. Civil registration system. https://kosis.kr, https://mdis.kostat.go.kr.  "
+ESP,Spain,infant,WHO Mortality Database
+LKA,Sri Lanka,infant,UNICEF data call. Perinatal death Surveillance unit -Family Health Bureau - CRVS
+PSE,State of Palestine,infant,UNPD - Demographic Yearbook
+SUR,Suriname,infant,UNPD - Demographic Yearbook
+SWE,Sweden,infant,Human Mortality Database (HMD)
+CHE,Switzerland,infant,"UNICEF data call. Federal statistical office, Switzerland. Vita  Statistics, BEVNAT. https://www.bfs.admin.ch/bfs/en/home/statistics/population/births-deaths/. "
+THA,Thailand,infant,UNICEF data call. Thailand Ministry of Interior. Civil registration and vital statistics (CRVS). https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/stat/. 
+TUR,Turkey,infant,UNICEF data call. Turkish Statistical Institute (TURKSTAT) and Turkish Minsitry of Health.  Central Civil Registration System (MERNÄ°S) and Death Notification System (OBS). 
+TCA,Turks and Caicos Islands,infant,UNPD - Demographic Yearbook
+USA,USA,infant,Human Mortality Database (HMD)
+UKR,Ukraine,infant,UNICEF data call. State Statistics Service of Ukraine. Administrative data of vital records. 
+ARE,United Arab Emirates,infant,UNPD - Demographic Yearbook
+GBR,United Kingdom,infant,Human Mortality Database (HMD)
+URY,Uruguay,infant,UNICEF data call. Uruguay Ministry of Health. Vital Statistics. https://uins.msp.gub.uy/. 
+UZB,Uzbekistan,infant,UNPD - Demographic Yearbook
+AFG,Afghanistan,deaths 0-24,Health Management Information System (HMIS)
+ALB,Albania,deaths 0-24,Eurostat Database
+ASM,American Samoa,deaths 0-24,UNPD - Demographic Yearbook
+AND,Andorra,deaths 0-24,UNPD - WHO All-Cause Mortality Data Call
+ATG,Antigua and Barbuda,deaths 0-24,WHO Mortality Database
+ARG,Argentina,deaths 0-24,UNPD - WHO Mortality Data base
+ABW,Aruba,deaths 0-24,UNPD - Demographic Yearbook
+AUS,Australia,deaths 0-24,WHO Mortality Database
+AUT,Austria,deaths 0-24,WHO Mortality Database
+BGD,Bangladesh,deaths 0-24,Bangladesh Bureau of Statistics - Sample Vital Statistics.
+BEL,Belgium,deaths 0-24,Human Mortality Database (HMD)
+BLZ,Belize,deaths 0-24,UNPD - Demographic Yearbook
+BMU,Bermuda,deaths 0-24,UNPD - Demographic Yearbook
+BIH,Bosnia and Herzegovina,deaths 0-24,UNICEF data call. Agency for Statistics of Bosnia and Herzegovina.  Civil registration and vital statistics. 
+BRA,Brazil,deaths 0-24,Ministerio da Saude - Datasus https://datasus.saude.gov.br/
+BRN,Brunei Darussalam,deaths 0-24,UNPD - Demographic Yearbook
+BGR,Bulgaria,deaths 0-24,UNPD - WHO All-Cause Mortality Data Call
+BFA,Burkina Faso,deaths 0-24,Health Management Information System (HMIS)
+CAN,Canada,deaths 0-24,UNPD - WHO All-Cause Mortality Data Call
+CHL,Chile,deaths 0-24,UNPD - WHO All-Cause Mortality Data Call
+CHN,China,deaths 0-24,National Bureau of Statistics of China - SVR
+COL,Colombia,deaths 0-24,UNICEF data call. National Administrative Department of Statistics of Colombia (DANE) - CRVS. 
+CRI,Costa Rica,deaths 0-24,UNPD - WHO All-Cause Mortality Data Call
+HRV,Croatia,deaths 0-24,Short-term mortality fluctuations database (STMF)
+CUB,Cuba,deaths 0-24,WHO Mortality Database
+CYP,Cyprus,deaths 0-24,Eurostat Database
+CZE,Czechia,deaths 0-24,Short-term mortality fluctuations database (STMF)
+DNK,Denmark,deaths 0-24,Human Mortality Database (HMD)
+DMA,Dominica,deaths 0-24,UNPD - WHO Mortality Data base
+DOM,Dominican Republic,deaths 0-24,UNPD - Demographic Yearbook
+ECU,Ecuador,deaths 0-24,WHO Mortality Database
+EGY,Egypt,deaths 0-24,UNPD - Demographic Yearbook
+EST,Estonia,deaths 0-24,Short-term mortality fluctuations database (STMF)
+ETH,Ethiopia,deaths 0-24,Health Management Information System (HMIS)
+FIN,Finland,deaths 0-24,Short-term mortality fluctuations database (STMF)
+FRA,France,deaths 0-24,Eurostat Database
+GUF,French Guiana,deaths 0-24,UNPD - Demographic Yearbook
+PYF,French Polynesia,deaths 0-24,UNPD - Demographic Yearbook
+GEO,Georgia,deaths 0-24,UNICEF data call. National Statistics Office of Georgia (Geostat). Administrative data. 
+DEU,Germany,deaths 0-24,UNPD - WHO Mortality Data base
+GRC,Greece,deaths 0-24,Short-term mortality fluctuations database (STMF)
+GRD,Grenada,deaths 0-24,WHO Mortality Database
+GTM,Guatemala,deaths 0-24,WHO Mortality Database
+HND,Honduras,deaths 0-24,UNICEF data call. Secretaria de Salud of Honduras. Area Estadistica de la Salud. Data submitted to UNICEF via e-mail
+HKG,Hong Kong - China SAR,deaths 0-24,UNPD - Demographic Yearbook
+HUN,Hungary,deaths 0-24,Eurostat Database
+ISL,Iceland,deaths 0-24,Eurostat Database
+IND,India,deaths 0-24,Ministry of Health and Family Welfare of India. Health Management Information System (HMIS). https://hmis.mohfw.gov.in
+IRN,Iran,deaths 0-24,UNPD - Demographic Yearbook
+IRL,Ireland,deaths 0-24,Human Mortality Database (HMD)
+ISR,Israel,deaths 0-24,UNICEF data call. Israel Central Bureau of Statistics. Population register. www.cbs.gov.il. 
+ITA,Italy,deaths 0-24,Short-term mortality fluctuations database (STMF)
+JPN,Japan,deaths 0-24,Human Mortality Database (HMD)
+KAZ,Kazakhstan,deaths 0-24,UNPD - Demographic Yearbook
+KEN,Kenya,deaths 0-24,Health Management Information System (HMIS)
+KWT,Kuwait,deaths 0-24,UNICEF data call. Kuwait Central Statistical Bureau and  Kuwait Ministry of Health. Vital Statistics. 
+KGZ,Kyrgyzstan,deaths 0-24,UNPD - Demographic Yearbook
+LVA,Latvia,deaths 0-24,Eurostat Database
+LBN,Lebanon,deaths 0-24,WHO Mortality Database
+LBR,Liberia,deaths 0-24,Health Management Information System (HMIS)
+LBY,Libya,deaths 0-24,UNICEF data call. Libyan Civil Registration Authority. Electronic system based on actual deaths and births registered by date. 
+LIE,Liechtenstein,deaths 0-24,Eurostat Database
+LTU,Lithuania,deaths 0-24,Short-term mortality fluctuations database (STMF)
+LUX,Luxembourg,deaths 0-24,Short-term mortality fluctuations database (STMF)
+MWI,Malawi,deaths 0-24,Health Management Information System (HMIS)
+MYS,Malaysia,deaths 0-24,UNICEF data call. Ministry of Health of Malaysia. Department of National Registration.  
+MDV,Maldives,deaths 0-24,UNICEF data call. Maldives Ministry of Health. Vital registration.  
+MLT,Malta,deaths 0-24,Eurostat Database
+MTQ,Martinique,deaths 0-24,UNPD - Demographic Yearbook
+MUS,Mauritius,deaths 0-24,"UNICEF data call. Statistics Mauritius, Vital statistics and civil registration.  "
+MYT,Mayotte,deaths 0-24,UNPD - Demographic Yearbook
+MEX,Mexico,deaths 0-24,UNPD - WHO Mortality Data base
+MDA,Moldova,deaths 0-24,UNPD - WHO All-Cause Mortality Data Call
+MNG,Mongolia,deaths 0-24,UNICEF data call. Mongolia Ministry of Health. National Center for Health Development. Administrative records.  
+MNE,Montenegro,deaths 0-24,Eurostat Database
+MSR,Montserrat,deaths 0-24,WHO Mortality Database
+MOZ,Mozambique,deaths 0-24,Countrywide Mortality Surveillance for Action (COMSA)
+NRU,Nauru,deaths 0-24,UNICEF data call. Government of the Republic of Nauru. Birth Notification and Certificate and  Cause of Death Notifification. 
+NLD,Netherlands,deaths 0-24,Short-term mortality fluctuations database (STMF)
+NZL,New Zealand,deaths 0-24,UNPD - Demographic Yearbook
+NIC,Nicaragua,deaths 0-24,UNPD - WHO Mortality Data base
+MKD,North Macedonia,deaths 0-24,UNPD - WHO Mortality Data base
+NOR,Norway,deaths 0-24,Human Mortality Database (HMD)
+OMN,Oman,deaths 0-24,UNPD - Demographic Yearbook
+PAN,Panama,deaths 0-24,UNICEF data call. Panama Ministry of Health. Vital statistics and civil registration. 
+PRY,Paraguay,deaths 0-24,UNPD - WHO All-Cause Mortality Data Call
+PER,Peru,deaths 0-24,WHO Mortality Database
+PHL,Philippines,deaths 0-24,UNICEF data call. Philippine Statistics Authority - CRVS. Data submitted to UNICEF via e-mail
+POL,Poland,deaths 0-24,Short-term mortality fluctuations database (STMF)
+PRT,Portugal,deaths 0-24,Short-term mortality fluctuations database (STMF)
+PRI,Puerto Rico,deaths 0-24,UNPD - Demographic Yearbook
+QAT,Qatar,deaths 0-24,UNPD - Demographic Yearbook
+REU,Reunion,deaths 0-24,UNPD - Demographic Yearbook
+ROU,Romania,deaths 0-24,Eurostat Database
+RUS,Russia,deaths 0-24,Short-term mortality fluctuations database (STMF)
+LCA,Saint Lucia,deaths 0-24,UNPD - WHO Mortality Data base
+SRB,Serbia,deaths 0-24,WHO Mortality Database
+SYC,Seychelles,deaths 0-24,UNPD - Demographic Yearbook
+SGP,Singapore,deaths 0-24,UNPD - Demographic Yearbook
+SVK,Slovakia,deaths 0-24,Eurostat Database
+SVN,Slovenia,deaths 0-24,Short-term mortality fluctuations database (STMF)
+ZAF,South Africa,deaths 0-24,"UNICEF data call. Rapid Mortality Surveillance, supplied by R. Dorrington."
+KOR,South Korea,deaths 0-24,Human Mortality Database (HMD)
+ESP,Spain,deaths 0-24,WHO Mortality Database
+LKA,Sri Lanka,deaths 0-24,UNICEF data call. Perinatal death Surveillance unit -Family Health Bureau - CRVS
+PSE,State of Palestine,deaths 0-24,UNPD - Demographic Yearbook
+SUR,Suriname,deaths 0-24,UNPD - Demographic Yearbook
+SWE,Sweden,deaths 0-24,Human Mortality Database (HMD)
+CHE,Switzerland,deaths 0-24,"UNICEF data call. Federal statistical office, Switzerland. Vita  Statistics, BEVNAT. "
+TWN,Taiwan - Province of China,deaths 0-24,Short-term mortality fluctuations database (STMF)
+THA,Thailand,deaths 0-24,UNICEF data call. Thailand Ministry of Interior. Civil registration and vital statistics (CRVS). 
+TUR,Turkey,deaths 0-24,UNICEF data call. Turkish Statistical Institute (TURKSTAT) and Turkish Minsitry of Health. Central Civil Registration System (MERNÄ°S) and Death Notification System (OBS). 
+TCA,Turks and Caicos Islands,deaths 0-24,UNPD - Demographic Yearbook
+USA,USA,deaths 0-24,Human Mortality Database (HMD)
+UGA,Uganda,deaths 0-24,Health Management Information System (HMIS)
+UKR,Ukraine,deaths 0-24,UNICEF data call. State Statistics Service of Ukraine. Administrative data of vital records. 
+ARE,United Arab Emirates,deaths 0-24,UNPD - Demographic Yearbook
+GBR,United Kingdom,deaths 0-24,Human Mortality Database (HMD)
+URY,Uruguay,deaths 0-24,UNICEF data call. Uruguay Ministry of Health. Vital Statistics. https://uins.msp.gub.uy/. 
+UZB,Uzbekistan,deaths 0-24,UNPD - Demographic Yearbook

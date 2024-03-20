@@ -1,0 +1,168 @@
+Country,Code,Deaths,Births,Population,Stillbirths,Neonatal,Infant
+Afghanistan,AFG,hmis,hmis,NA,hmis,-,-
+Albania,ALB,unicef_ccs,eurostat,wpp,eurs,unpd_eur,eurs_x1
+Algeria,DZA,unicef_ccs,wpp,wpp,-,-,unicef_ccs
+Algeria,DZA,unicef_ccs,unicef_ann,wpp,-,-,unicef_ccs
+American Samoa,ASM,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+Andorra,AND,unicef_ccs,unpd_dy,wpp,unicef_ann,unicef_ann,unicef_ccs
+Antigua & Barbuda,ATG,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Argentina,ARG,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ann,unicef_ccs
+Aruba,ABW,unpd_dy,unpd_dy,wpp,-,unicef_ann,unpd_dy
+Australia,AUS,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Austria,AUT,unicef_ccs,unicef_ann,wpp,eurs,eurs,unicef_ccs
+Bahamas,BHS,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Bangladesh,BGD,-,wpp,wpp,hmis,svr,-
+Bangladesh,BGD,-,wpp,wpp,hmis,hmis,-
+Bangladesh,BGD,-,hmis,NA,hmis,svr,-
+Bangladesh,BGD,-,hmis,NA,hmis,hmis,-
+Belgium,BEL,hmd,hmd,wpp,eurs,eurs,hmd
+Belize,BLZ,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Bermuda,BMU,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+Bosnia & Herzegovina,BIH,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ann,unicef_ccs
+Brazil,BRA,unicef_ccs,unicef_ann,wpp,unicef_ann,unicef_ann,unicef_ccs
+Brunei,BRN,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Bulgaria,BGR,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Burkina Faso,BFA,hmis,hmis,NA,hmis,hmis,-
+Burundi,BDI,-,hmis,NA,hmis,hmis,-
+Canada,CAN,who_mort_db,stff,wpp,unicef_ccd,unicef_ann,who_mort_db
+Canada,CAN,who_mort_db,wpp,wpp,unicef_ccd,unicef_ann,who_mort_db
+Cape Verde,CPV,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Chile,CHL,unpd_who_ccd,unicef_ann,wpp,-,unicef_ann,unpd_who_ccd
+China,CHN,-,wpp,wpp,-,svr,-
+Colombia,COL,unicef_ccs,unicef_ann,wpp,colombia_dane,unicef_ccd,unicef_ccs
+Costa Rica,CRI,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Croatia,HRV,eurs,unicef_ann,wpp,eurs,unicef_ann,unicef_ccs
+Croatia,HRV,eurs,wpp,wpp,eurs,unicef_ann,-
+Cuba,CUB,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Cyprus,CYP,eurs,unicef_ann,wpp,eurs,unicef_ann,unicef_ccs
+Cyprus,CYP,eurs,wpp,wpp,eurs,unicef_ann,-
+Czechia,CZE,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Denmark,DNK,hmd,hmd,wpp,eurs,eurs,hmd
+Dominica,DMA,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Dominican Republic,DOM,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Ecuador,ECU,unicef_ccs,unicef_ann,wpp,unicef_ann,unicef_ann,unicef_ccs
+Egypt,EGY,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Estonia,EST,eurs,unicef_ann,wpp,eurs,unicef_ann,who_mort_db
+Estonia,EST,eurs,wpp,wpp,eurs,unicef_ann,who_mort_db
+Eswatini,SWZ,-,hmis,NA,hmis,hmis,-
+Ethiopia,ETH,hmis,hmis,NA,hmis,hmis,-
+Faroe Islands,FRO,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+Finland,FIN,unicef_ccs,unicef_ann,wpp,eurs,eurs,unicef_ccs
+France,FRA,eurs,unicef_ann,wpp,eurs,eurs,unicef_ccs
+French Guiana,GUF,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+French Polynesia,PYF,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+Georgia,GEO,who_mort_db,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Germany,DEU,unicef_ccs,unicef_ann,wpp,eurs,eurs,unicef_ccs
+Greece,GRC,eurs,stff,wpp,unicef_ann,unicef_ann,unicef_ccs
+Greece,GRC,eurs,wpp,wpp,unicef_ann,unicef_ann,-
+Grenada,GRD,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Guadeloupe,GLP,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+Guatemala,GTM,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Honduras,HND,unicef_ccs,unicef_ann,wpp,unicef_ann,-,unicef_ccs
+Hong Kong SAR China,HKG,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Hungary,HUN,who_mort_db,unicef_ann,wpp,eurs,eurs,unicef_ccs
+Iceland,ISL,eurs,unicef_ann,wpp,unicef_ann,eurs,unicef_ccs
+India,IND,hmis,hmis,NA,hmis,hmis,-
+India,IND,-,unpd_crvs,wpp,-,-,-
+Iran,IRN,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+Iraq,IRQ,unicef_ccs,unpd_dy,wpp,-,-,unicef_ccs
+Ireland,IRL,unicef_ccs,stff,wpp,eurs,eurs,eurs_x1
+Israel,ISR,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Italy,ITA,eurs,unpd_dy,wpp,eurs,eurs,unicef_ccs
+Italy,ITA,eurs,wpp,wpp,eurs,eurs,unicef_ccs
+Jamaica,JAM,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Japan,JPN,unicef_ccs,hmd,wpp,unicef_ann,unicef_ccd,unicef_ccs
+Jordan,JOR,unicef_ccs,unpd_dy,wpp,-,-,unicef_ccs
+Kazakhstan,KAZ,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Kenya,KEN,hmis,hmis,NA,hmis,hmis,-
+Kiribati,KIR,unicef_ccs,unicef_ann,wpp,-,-,unicef_ccs
+Kiribati,KIR,unicef_ccs,wpp,wpp,-,-,unicef_ccs
+Kosovo,RKS,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Kuwait,KWT,unpd_dy,unpd_dy,wpp,-,unicef_ccd,unpd_dy
+Kyrgyzstan,KGZ,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Latvia,LVA,eurs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Lebanon,LBN,unicef_ccs,unpd_crvs,wpp,-,unicef_ann,unicef_ccs
+Lebanon,LBN,unicef_ccs,wpp,wpp,-,unicef_ann,unicef_ccs
+Lesotho,LSO,-,hmis,NA,hmis,hmis,-
+Liberia,LBR,hmis,hmis,NA,hmis,hmis,-
+Liechtenstein,LIE,eurs,eurostat,wpp,-,-,eurs_x1
+Liechtenstein,LIE,eurs,wpp,wpp,-,-,-
+Lithuania,LTU,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Luxembourg,LUX,hmd,hmd,wpp,eurs,unicef_ann,hmd
+Madagascar,MDG,-,hmis,NA,hmis,hmis,-
+Malawi,MWI,hmis,hmis,NA,hmis,hmis,-
+Malaysia,MYS,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Maldives,MDV,unicef_ccs,unicef_ccd,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Malta,MLT,unicef_ccs,unicef_ann,wpp,unicef_ann,eurs,unicef_ccs
+Martinique,MTQ,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+Mauritius,MUS,who_mort_db,unicef_ann,wpp,unicef_ccd,unicef_ccd,who_mort_db
+Mauritius,MUS,who_mort_db,wpp,wpp,unicef_ccd,unicef_ccd,who_mort_db
+Mayotte,MYT,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+Mexico,MEX,unicef_ccs,unicef_ann,wpp,inegi,unicef_ann,unicef_ccs
+Moldova,MDA,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Monaco,MCO,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Mongolia,MNG,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Montenegro,MNE,eurs,unicef_ann,wpp,unicef_ann,unicef_ann,unicef_ccs
+Montserrat,MSR,unicef_ccs,unpd_dy,wpp,-,unicef_ann,unicef_ccs
+Mozambique,MOZ,hmis,hmis,NA,hmis,hmis,-
+Myanmar (Burma),MMR,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+Namibia,NAM,-,hmis,NA,hmis,hmis,-
+Nauru,NRU,unicef_ccs,unpd_crvs,wpp,unicef_ann,unicef_ccd,unicef_ccs
+Netherlands,NLD,unicef_ccs,hmd,wpp,eurs,eurs,unicef_ccs
+Netherlands,NLD,unicef_ccs,wpp,wpp,eurs,eurs,unicef_ccs
+New Caledonia,NCL,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+New Zealand,NZL,unpd_dy,unpd_dy,wpp,-,-,hmd
+Nicaragua,NIC,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+North Macedonia,MKD,unicef_ccs,unicef_ann,wpp,eurs,unpd_eur,unicef_ccs
+Norway,NOR,hmd,unicef_ann,wpp,unicef_ccd,unicef_ccd,hmd
+Oman,OMN,unpd_dy,unpd_dy,wpp,unicef_ccd,unicef_ann,unpd_dy
+Panama,PAN,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Paraguay,PRY,unpd_crvs,unicef_ann,wpp,-,unicef_ann,unpd_crvs
+Paraguay,PRY,unpd_crvs,wpp,wpp,-,unicef_ann,unpd_crvs
+Peru,PER,who_mort_db,unpd_dy,wpp,-,unicef_ann,who_mort_db
+Philippines,PHL,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ann,unicef_ccs
+Poland,POL,unicef_ccs,unicef_ann,wpp,eurs,unicef_ccd,unicef_ccs
+Portugal,PRT,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Puerto Rico,PRI,unpd_dy,unpd_dy,wpp,-,unicef_ann,unpd_dy
+Qatar,QAT,unpd_dy,unicef_ann,wpp,unicef_ccd,unicef_ann,unpd_dy
+Romania,ROU,unicef_ccs,unicef_ann,wpp,unicef_ann,eurs,unicef_ccs
+Russia,RUS,unicef_ccs,unpd_dy,wpp,-,unicef_ccd,unicef_ccs
+Réunion,REU,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+San Marino,SMR,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+Saudi Arabia,SAU,unpd_crvs,wpp,wpp,-,-,-
+Saudi Arabia,SAU,unpd_crvs,unicef_ann,wpp,-,-,-
+Serbia,SRB,eurs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Seychelles,SYC,unpd_dy,unicef_ann,wpp,-,unicef_ann,unpd_dy
+Singapore,SGP,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Slovakia,SVK,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Slovenia,SVN,unicef_ccs,unicef_ann,wpp,unicef_ann,eurs,unicef_ccs
+South Africa,ZAF,-,unpd_dy,wpp,rms_zaf,rms_zaf,-
+South Africa,ZAF,-,wpp,wpp,rms_zaf,rms_zaf,-
+South Korea,KOR,who_mort_db,unicef_ccd,wpp,unicef_ann,unicef_ccd,who_mort_db
+Spain,ESP,eurs,unicef_ann,wpp,eurs,unicef_ann,unicef_ccs
+Spain,ESP,eurs,wpp,wpp,eurs,unicef_ann,-
+Sri Lanka,LKA,unicef_ccs,unpd_dy,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+St. Lucia,LCA,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+St. Vincent & Grenadines,VCT,unpd_crvs,unpd_dy,wpp,-,unicef_ann,unpd_crvs
+State of Palestine,PSE,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+Suriname,SUR,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+Sweden,SWE,who_mort_db,unicef_ann,wpp,eurs,eurs,who_mort_db
+Switzerland,CHE,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Taiwan,TWN,hmd,stff,wpp,-,-,hmd
+Tajikistan,TJK,unicef_ccs,wpp,wpp,-,-,unicef_ccs
+Thailand,THA,unicef_ccs,unpd_dy,wpp,-,-,unicef_ccs
+Tunisia,TUN,unicef_ccs,unpd_dy,wpp,-,-,unicef_ccs
+Turkey,TUR,unicef_ccs,unicef_ann,wpp,eurs,unicef_ccd,unicef_ccs
+Turks & Caicos Islands,TCA,unpd_dy,unpd_dy,wpp,-,-,unpd_dy
+U.S. Virgin Islands,VIR,unicef_ccs,unpd_dy,wpp,-,unicef_ann,unicef_ccs
+U.S. Virgin Islands,VIR,unicef_ccs,wpp,wpp,-,unicef_ann,unicef_ccs
+USA,USA,cdc,unicef_ann,wpp,unicef_ann,unicef_ann,cdc
+Uganda,UGA,hmis,hmis,NA,hmis,hmis,-
+Ukraine,UKR,unicef_ccs,stff,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+United Arab Emirates,ARE,unicef_ccs,unicef_ann,wpp,-,unicef_ann,unicef_ccs
+United Kingdom,GBR,hmd,hmd,wpp,unicef_ann,unicef_ann,hmd
+Uruguay,URY,unicef_ccs,unicef_ann,wpp,unicef_ccd,unicef_ccd,unicef_ccs
+Uzbekistan,UZB,unicef_ccs,unicef_ann,wpp,-,unicef_ccd,unicef_ccs
+Wallis & Futuna,WLF,unpd_crvs,unpd_crvs,wpp,-,-,unpd_crvs
+Zambia,ZMB,-,hmis,NA,hmis,hmis,-
+Zimbabwe,ZWE,-,hmis,NA,hmis,hmis,-
