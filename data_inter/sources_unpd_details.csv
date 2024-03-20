@@ -1,0 +1,449 @@
+Country,Code,Source,DataSourceAuthor,DataSourceName,DataSourceShortName,DataCatalogName,DataProcess,DataProcessType,measure
+Albania,ALB,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+American Samoa,ASM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Andorra,AND,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,deaths
+Antigua and Barbuda,ATG,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Argentina,ARG,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Armenia,ARM,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+Aruba,ABW,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Australia,AUS,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Austria,AUT,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+Azerbaijan,AZE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Belgium,BEL,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Belize,BLZ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Bermuda,BMU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Bosnia and Herzegovina,BIH,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Brazil,BRA,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+Brunei Darussalam,BRN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Bulgaria,BGR,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,deaths
+Canada,CAN,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Chile,CHL,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,deaths
+"China, Hong Kong SAR",HKG,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Colombia,COL,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Costa Rica,CRI,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,deaths
+Croatia,HRV,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Cuba,CUB,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Cyprus,CYP,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Czechia,CZE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Denmark,DNK,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,deaths
+Dominica,DMA,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+Dominican Republic,DOM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Ecuador,ECU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Egypt,EGY,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Estonia,EST,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+Faeroe Islands,FRO,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Finland,FIN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+France,FRA,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+French Guiana,GUF,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+French Polynesia,PYF,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Georgia,GEO,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+Germany,DEU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Greece,GRC,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Grenada,GRD,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+Guadeloupe,GLP,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Guatemala,GTM,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Hungary,HUN,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Iceland,ISL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Iran,IRN,Demographic Yearbook,NA,NA,NA,NA,NA,NA,deaths
+Ireland,IRL,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Israel,ISR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Italy,ITA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Japan,JPN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Kazakhstan,KAZ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Kuwait,KWT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Kyrgyzstan,KGZ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Latvia,LVA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Lesotho,LSO,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Liechtenstein,LIE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Lithuania,LTU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Luxembourg,LUX,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Malaysia,MYS,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Maldives,MDV,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,deaths
+Malta,MLT,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Martinique,MTQ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Mauritius,MUS,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Mayotte,MYT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Mexico,MEX,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Moldova,MDA,WHO All-Cause Mortality Data Call,NA,NA,NA,NA,NA,NA,deaths
+Mongolia,MNG,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+Montenegro,MNE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Montserrat,MSR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Myanmar,MMR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Netherlands,NLD,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+New Caledonia,NCL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+New Zealand,NZL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Nicaragua,NIC,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+North Macedonia,MKD,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+Norway,NOR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Oman,OMN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Panama,PAN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Paraguay,PRY,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Peru,PER,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Poland,POL,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Portugal,PRT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Puerto Rico,PRI,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Qatar,QAT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Romania,ROU,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,deaths
+Réunion,REU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Saint Lucia,LCA,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+Saint Vincent and the Grenadines,VCT,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+Saudi Arabia,SAU,Back-casting population and demographic rates 2010-2022,General Authority for Statistics,Back-casting population and demographic rates 2010-2022,GAStat backcast,Vital Registration,VR,Register,deaths
+Serbia,SRB,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+Seychelles,SYC,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Singapore,SGP,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Slovakia,SVK,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Slovenia,SVN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+South Korea,KOR,Demographic Yearbook,NA,NA,NA,NA,NA,NA,deaths
+Spain,ESP,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+State of Palestine,PSE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Suriname,SUR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Sweden,SWE,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Switzerland,CHE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Thailand,THA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Turks and Caicos Islands,TCA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Türkiye,TUR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+USA,USA,WHO Mortality Data base (supplement),NA,NA,NA,NA,NA,NA,deaths
+Ukraine,UKR,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,deaths
+United Arab Emirates,ARE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+United Kingdom,GBR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+United States Virgin Islands,VIR,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,deaths
+Uruguay,URY,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,deaths
+Uzbekistan,UZB,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,deaths
+Wallis and Futuna Islands,WLF,RAPPORTS & TABLEAUX: Etat Civil,Service de la Statistique et des Études Économiques – Wallis & Futuna,RAPPORTS & TABLEAUX: Etat Civil,NSO tabulations,Vital Registration,VR,Register,deaths
+Albania,ALB,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+American Samoa,ASM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Andorra,AND,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,infant
+Antigua and Barbuda,ATG,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Argentina,ARG,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Armenia,ARM,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+Aruba,ABW,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Australia,AUS,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Austria,AUT,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+Azerbaijan,AZE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Belgium,BEL,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Belize,BLZ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Bermuda,BMU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Bosnia and Herzegovina,BIH,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Brazil,BRA,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+Brunei Darussalam,BRN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Bulgaria,BGR,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,infant
+Canada,CAN,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Chile,CHL,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,infant
+"China, Hong Kong SAR",HKG,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Colombia,COL,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Costa Rica,CRI,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,infant
+Croatia,HRV,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Cuba,CUB,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Cyprus,CYP,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Czechia,CZE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Denmark,DNK,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,infant
+Dominica,DMA,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+Dominican Republic,DOM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Ecuador,ECU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Egypt,EGY,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Estonia,EST,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+Faeroe Islands,FRO,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Finland,FIN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+France,FRA,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+French Guiana,GUF,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+French Polynesia,PYF,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Georgia,GEO,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+Germany,DEU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Greece,GRC,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Grenada,GRD,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+Guadeloupe,GLP,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Guatemala,GTM,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Hungary,HUN,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Iceland,ISL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Iran,IRN,Demographic Yearbook,NA,NA,NA,NA,NA,NA,infant
+Ireland,IRL,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Israel,ISR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Italy,ITA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Japan,JPN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Kazakhstan,KAZ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Kuwait,KWT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Kyrgyzstan,KGZ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Latvia,LVA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Liechtenstein,LIE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Lithuania,LTU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Luxembourg,LUX,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Malaysia,MYS,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Maldives,MDV,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,infant
+Malta,MLT,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Martinique,MTQ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Mauritius,MUS,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Mayotte,MYT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Mexico,MEX,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Moldova,MDA,WHO All-Cause Mortality Data Call,NA,NA,NA,NA,NA,NA,infant
+Mongolia,MNG,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+Montenegro,MNE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Montserrat,MSR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Myanmar,MMR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Netherlands,NLD,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+New Caledonia,NCL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+New Zealand,NZL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Nicaragua,NIC,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+North Macedonia,MKD,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+Norway,NOR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Oman,OMN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Panama,PAN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Paraguay,PRY,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Peru,PER,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Poland,POL,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Portugal,PRT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Puerto Rico,PRI,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Qatar,QAT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Romania,ROU,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,infant
+Réunion,REU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Saint Lucia,LCA,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+Saint Vincent and the Grenadines,VCT,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+Serbia,SRB,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+Seychelles,SYC,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Singapore,SGP,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Slovakia,SVK,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Slovenia,SVN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+South Korea,KOR,Demographic Yearbook,NA,NA,NA,NA,NA,NA,infant
+Spain,ESP,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+State of Palestine,PSE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Suriname,SUR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Sweden,SWE,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Switzerland,CHE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Thailand,THA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Turks and Caicos Islands,TCA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Türkiye,TUR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+USA,USA,WHO Mortality Data base (supplement),NA,NA,NA,NA,NA,NA,infant
+Ukraine,UKR,WHO All-Cause Mortality Data Call,WHO,WHO All-Cause Mortality Data Call,WHO Data Call,Vital Registration,VR,Register,infant
+United Arab Emirates,ARE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+United Kingdom,GBR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+United States Virgin Islands,VIR,WHO Mortality Data base (supplement),WHO,WHO Mortality Data base (supplement),WHO MDB (sup),Vital Registration,VR,Register,infant
+Uruguay,URY,WHO Mortality Data base,WHO,WHO Mortality Data base,WHO MDB,Vital Registration,VR,Register,infant
+Uzbekistan,UZB,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,infant
+Wallis and Futuna Islands,WLF,RAPPORTS & TABLEAUX: Etat Civil,Service de la Statistique et des Études Économiques – Wallis & Futuna,RAPPORTS & TABLEAUX: Etat Civil,NSO tabulations,Vital Registration,VR,Register,infant
+Albania,ALB,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+American Samoa,ASM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Andorra,AND,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Anguilla,AIA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Antigua and Barbuda,ATG,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Argentina,ARG,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Armenia,ARM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Aruba,ABW,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Australia,AUS,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Austria,AUT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Azerbaijan,AZE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Belgium,BEL,Eurostat Database,European Commission,Eurostat Database,EuroStat,Population Register,Register,Register,births
+Belize,BLZ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Bermuda,BMU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Bhutan,BTN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+"Bonaire, Sint Eustatius and Saba",BES,"Caribbean Netherlands; population, births, deaths, migration",Statistics Netherlands,"Caribbean Netherlands; population, births, deaths, migration",CBS StatLine,Vital Registration,VR,Register,births
+Bosnia and Herzegovina,BIH,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Botswana,BWA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Brazil,BRA,Sistema de Informações sobre Nascidos Vivos (SINASC),Ministério da Saúde,Sistema de Informações sobre Nascidos Vivos (SINASC),SINASC,Vital Registration,VR,Register,births
+British Virgin Islands,VGB,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Brunei Darussalam,BRN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Bulgaria,BGR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Burundi,BDI,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Cabo Verde,CPV,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Canada,CAN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Cayman Islands,CYM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Channel Islands - Guernsey,GGY,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Channel Islands - Jersey,JEY,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Chile,CHL,Human Mortality Database,UC Berkeley-MaxPlank,Human Mortality Database,HMD,Vital Registration,VR,Register,births
+"China, Taiwan Province of China",NA,Human Mortality Database,UC Berkeley-MaxPlank,Human Mortality Database,HMD,Vital Registration,VR,Register,births
+Colombia,COL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Cook Islands,COK,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Costa Rica,CRI,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Croatia,HRV,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Cuba,CUB,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Curaçao,CUW,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Cyprus,CYP,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Czechia,CZE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Denmark,DNK,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Djibouti,DJI,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Dominican Republic,DOM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Ecuador,ECU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Egypt,EGY,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Estonia,EST,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Eswatini,SWZ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Faeroe Islands,FRO,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Finland,FIN,Eurostat Database,European Commission,Eurostat Database,EuroStat,Population Register,Register,Register,births
+France,FRA,Human Mortality Database,UC Berkeley-MaxPlank,Human Mortality Database,HMD,Vital Registration,VR,Register,births
+French Guiana,GUF,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+French Polynesia,PYF,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Georgia,GEO,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Germany,DEU,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,births
+Greece,GRC,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Greenland,GRL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Grenada,GRD,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Guadeloupe,GLP,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Guam,GUM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Guatemala,GTM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Hong Kong,HKG,Demographic Yearbook,NA,NA,NA,NA,NA,NA,births
+Hungary,HUN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Iceland,ISL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+India,IND,Vital Statistics of India based on the Civil Registration System 2020,"Office of the Registrar General, India",Vital Statistics of India based on the Civil Registration System 2020,CRS,Vital Registration,VR,Register,births
+Iran,IRN,Demographic Yearbook,NA,NA,NA,NA,NA,NA,births
+Iraq,IRQ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Ireland,IRL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Isle of Man,IMN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Israel,ISR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Italy,ITA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Japan,JPN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Jordan,JOR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Kazakhstan,KAZ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Kenya,KEN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Kosovo,NA,Eurostat Database,NA,NA,NA,NA,NA,NA,births
+Kuwait,KWT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Kyrgyzstan,KGZ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Latvia,LVA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Lebanon,LBN,Statistiques Vitales - Données Mensuelles 1999-2019,Ministry of Interior Affairs,Statistiques Vitales - Données Mensuelles 1999-2019,Vital Statistics 1999-2019,Vital Registration,VR,Register,births
+Lesotho,LSO,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Liechtenstein,LIE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Lithuania,LTU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Luxembourg,LUX,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Macao,MAC,Demographic Yearbook,NA,NA,NA,NA,NA,NA,births
+Malaysia,MYS,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Maldives,MDV,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Malta,MLT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Martinique,MTQ,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Mauritius,MUS,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Mayotte,MYT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Mexico,MEX,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Moldova,MDA,Demographic Yearbook,NA,NA,NA,NA,NA,NA,births
+Monaco,MCO,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Mongolia,MNG,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Montenegro,MNE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Montserrat,MSR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Myanmar,MMR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Nauru,NRU,Nauru 2021 Population and Housing Census: Analytical Report,Pacific Community (SPC) and Government of the Republic of Nauru,Nauru 2021 Population and Housing Census: Analytical Report,Analytical Report,Vital Registration,VR,Register,births
+Netherlands,NLD,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+New Caledonia,NCL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+New Zealand,NZL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Nicaragua,NIC,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Niger,NER,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Niue,NIU,Statistical Release:: Niue Vital Statistics,Statistics Niue,Statistical Release:: Niue Vital Statistics,Vital Stats Report,Vital Registration,VR,Register,births
+North Macedonia,MKD,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Norway,NOR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Oman,OMN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Palau,PLW,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Panama,PAN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Peru,PER,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Philippines,PHL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Poland,POL,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Portugal,PRT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Puerto Rico,PRI,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Qatar,QAT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Romania,ROU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Russia,RUS,Demographic Yearbook,NA,NA,NA,NA,NA,NA,births
+Réunion,REU,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Saint Helena,SHN,Population estimates and the number of births and deaths (1970-2020),Statistics Office of the St Helena Government,Population estimates and the number of births and deaths (1970-2020),NSO estimates,Vital Registration,VR,Register,births
+Saint Pierre and Miquelon,SPM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Saint Vincent and the Grenadines,VCT,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Saint-Barthélemy,BLM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Saint-Martin (French part),MAF,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Samoa,WSM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+San Marino,SMR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Sao Tome and Principe,STP,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Serbia,SRB,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Seychelles,SYC,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Singapore,SGP,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Sint Maarten (Dutch part),SXM,Press release: Population Estimates and Vital Statistics 2022 and 2023,"Dept. of Statistics, Sint Maarten",Press release: Population Estimates and Vital Statistics 2022 and 2023,Press release,Vital Registration,VR,Register,births
+Slovakia,SVK,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Slovenia,SVN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+South Africa,ZAF,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+South Korea,KOR,Demographic Yearbook,NA,NA,NA,NA,NA,NA,births
+Spain,ESP,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Sri Lanka,LKA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+State of Palestine,PSE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Suriname,SUR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Sweden,SWE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Switzerland,CHE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Thailand,THA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Tonga,TON,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Tunisia,TUN,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Turks and Caicos Islands,TCA,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Tuvalu,TUV,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Türkiye,TUR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+USA,USA,Demographic Yearbook,NA,NA,NA,NA,NA,NA,births
+Ukraine,UKR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+United Arab Emirates,ARE,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+United Kingdom,GBR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+United States Virgin Islands,VIR,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Uruguay,URY,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Uzbekistan,UZB,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Wallis and Futuna Islands,WLF,RAPPORTS & TABLEAUX: Etat Civil,Service de la Statistique et des Études Économiques – Wallis & Futuna,RAPPORTS & TABLEAUX: Etat Civil,NSO tabulations,Vital Registration,VR,Register,births
+Yemen,YEM,Demographic Yearbook,UNSD,Demographic Yearbook,DYB,Vital Registration,VR,Register,births
+Albania,ALB,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Armenia,ARM,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Australia,AUS,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Austria,AUT,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Azerbaijan,AZE,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Bulgaria,BGR,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Colombia,COL,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Costa Rica,CRI,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Croatia,HRV,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Cuba,CUB,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Czechia,CZE,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Denmark,DNK,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Ecuador,ECU,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Estonia,EST,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Finland,FIN,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+France,FRA,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Georgia,GEO,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Germany,DEU,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Greece,GRC,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Hungary,HUN,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Iceland,ISL,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Kazakhstan,KAZ,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Latvia,LVA,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Lithuania,LTU,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Luxembourg,LUX,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Malta,MLT,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Mauritius,MUS,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Mexico,MEX,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Moldova,MDA,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",NA,NA,NA,NA,NA,NA,neonatal
+Montenegro,MNE,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Netherlands,NLD,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+North Macedonia,MKD,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Norway,NOR,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Oman,OMN,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Panama,PAN,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Poland,POL,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Portugal,PRT,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Qatar,QAT,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Romania,ROU,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Russia,RUS,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",NA,NA,NA,NA,NA,NA,neonatal
+Serbia,SRB,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Singapore,SGP,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Slovakia,SVK,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Slovenia,SVN,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Spain,ESP,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Sweden,SWE,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Switzerland,CHE,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Ukraine,UKR,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,neonatal
+Uruguay,URY,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Uzbekistan,UZB,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",UN-IGME,"UN IGME Total Under-5 Mortality Rate, Infant Mortality Rate and Neonatal mortality database 2021.",IGME 2021,Vital Registration,VR,Register,neonatal
+Albania,ALB,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Armenia,ARM,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Azerbaijan,AZE,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Bulgaria,BGR,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Croatia,HRV,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Czechia,CZE,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Finland,FIN,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Georgia,GEO,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Greece,GRC,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Hungary,HUN,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Iceland,ISL,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Latvia,LVA,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Lithuania,LTU,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Luxembourg,LUX,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+North Macedonia,MKD,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Norway,NOR,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Portugal,PRT,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Romania,ROU,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Serbia,SRB,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Slovakia,SVK,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Slovenia,SVN,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Spain,ESP,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Sweden,SWE,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Switzerland,CHE,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths
+Ukraine,UKR,Eurostat Database,European Commission,Eurostat Database,EuroStat,Vital Registration,VR,Register,stillbirths

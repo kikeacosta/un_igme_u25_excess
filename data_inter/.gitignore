@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# confidential data
+hmis_all_countries.rds
+hmis_annual_baselines.rds
